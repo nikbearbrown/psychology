@@ -1,352 +1,220 @@
 # Chapter 6 — Learning
-
-**TL;DR:** Learning is how organisms change behavior through experience, not through instinct. Three associative mechanisms — classical conditioning (stimulus pairing), operant conditioning (consequence shaping), and observational learning (imitation) — account for much of how humans and animals acquire everything from fear to skill. The trade-off between durability and speed runs through all three.
-
----
-
-## Chapter opening
-
-The summer sun shines on a stretch of beach in Florida. The sand is hot — surface temperature 140 degrees — and the hatchlings are coming. Loggerhead sea turtle eggs, buried nine inches down where the sand is cool enough for the embryos to survive, have incubated for two months. Now, at some invisible threshold of temperature and humidity, the hatchlings break through their shells and dig upward. The digging is not learned. The hatchlings have never done it before. No parent teaches them. And yet the moment they breach the surface, they move toward the ocean with a precision that kills half of them in the first day.
-
-A gull spots the movement. A ghost crab darts from its burrow. The hatchlings that make it to the water are the ones whose instinct — the unlearned, inherited behavior built into their nervous system — aimed them at the brightest light and the magnetic north the Earth's field provides. They do not learn this. They are born knowing it.
-
-Not far down this same beach, on a better day, Ben stands in the water on a surfboard with his ten-year-old son, Julian. Julian has paddled out six times already today. The first time, he could barely keep the board beneath him. Now he's getting his timing right — the crouch, the pop to a stand, the weight shift as the wave lifts. Ben watches from twenty feet away. Julian has not been told the exact formula; he has watched his father do it, felt the board move under his own weight, tasted the salt and the failure and the brief second when he stood. Ben rode a wave in front of him and held it. Julian's body now *knows* what to do in a way his conscious mind could not have learned from a lecture.
-
-The sea turtle hatchling is doing what its species has always done. Julian is doing something humans had to *invent* — a technology, a culture, a skill that accumulates across generations. Both the hatchling and the boy are moving on water. One knows the ocean because the ocean is written into its cells. The other *learned* it by watching and trying and correcting, a process so ordinary it seems invisible.
-
-Learning is that process. It is a relatively permanent change in behavior or knowledge that results from experience. Not from instinct. Not from reflex — the automatic recoil when your finger touches a hot stove. But from experience: from doing, from watching, from trying and failing and trying again.
-
-The question that opens this chapter is simple: how does that change happen? What are the mechanisms? And once you see the mechanisms, you understand why some things are easy to learn and some are hard, why some learning is fast and some takes years, why some learned behaviors stick forever and some fade in a week.
-
-### Learning objectives
-
-By the end of this chapter you will be able to:
-
-- **Distinguish** instinct, reflex, and learned behavior, and explain what each requires.
-- **Explain** how classical conditioning works and identify its essential elements in real cases.
-- **Describe** how operant conditioning shapes behavior through consequences, and predict what will happen under different reinforcement schedules.
-- **Analyze** observational learning through the four steps Bandura identified and explain why some models are imitated and others are not.
-- **Evaluate** claims about learning — from addiction to parenting — by identifying which mechanism is actually at work.
-
-### Prerequisites assumed
-
-You understand that behavior is the observable output of something happening inside the nervous system. You are willing to revise your beliefs about how learning works based on evidence from actual experiments, even when the evidence contradicts intuition. You have experienced learning enough to recognize it when you see it.
-
-### Why this chapter matters
-
-Learning is the bridge between biology and culture. Every skill, fear, habit, superstition, preference, and bit of knowledge you carry was shaped by one of the three mechanisms in this chapter — or by their intersection. Advertisers know this. Therapists know this. Parents know it, sometimes by heartbreak. Understanding the mechanism means understanding why some ways of teaching work and others fail, why trauma shapes behavior the way it does, and why your habits — for good and ill — are so hard to break once they're formed. The mechanism also shows where the limits are. Not everything can be classically conditioned. Not every schedule of reinforcement works the same way. Not every observer imitates every model. These limits, once you see them, are as important as the mechanisms themselves.
+*How experience rewires what you do next.*
 
 ---
 
-## Concept 1 — Classical Conditioning: Learning by Association
+Ben is standing in chest-deep water off a Florida beach, watching his ten-year-old son Julian try to stand on a surfboard. Julian has paddled out six times. The first time he could barely keep the board under him. Now he's getting something right — the crouch, the weight shift, the moment when the wave lifts and his body knows before his mind does. Nobody told Julian the formula. Ben rode a wave in front of him. Julian watched. Julian tried. Julian failed, tasted salt, tried again. His body now knows something his words cannot fully describe.
 
-Ivan Pavlov was not trying to discover how learning works. He was a Russian physiologist in 1890, interested in digestion. He had set up a laboratory to measure how much saliva dogs produce when they eat. The measurement itself is what teaches the lesson.
+A hundred yards down this same beach, loggerhead sea turtle hatchlings are breaking out of their shells and moving toward the ocean. No parent. No practice. No failure and retry. They just go. And they go in the right direction: toward the light over the water, aligned with the Earth's magnetic field. They know the ocean the way you know to pull your hand from a flame — it's in them before experience begins.
 
-Pavlov placed a dog in a harness. A tube collected the saliva. A metronome ticked in the background — experimental apparatus, nothing special. The dog was presented with meat powder. The saliva flowed. That's reflex: unconditioned stimulus (the meat powder) → unconditioned response (saliva). No learning. The reflex exists by birth.
+Julian and the hatchling are both moving on water. One knows how because it was written into its cells. The other knows how because he changed.
 
-But over days, something unexpected happened. The dog began to salivate *before* the meat powder arrived. At the sound of the metronome's tick. At the sight of the food bowl. At the footsteps of the laboratory assistant approaching. The dog was not reacting to food. The dog was *anticipating* food. It had learned to associate a neutral stimulus — a sound, a sight, a pattern of footsteps — with the arrival of food.
-
-Pavlov called this "psychic secretion." It intrigued him enough to redesign his entire laboratory around this phenomenon instead of digestion.
-
-### The mechanism: pairing, acquisition, extinction
-
-Here's what Pavlov discovered, running through the logic step by step.
-
-An unconditioned stimulus (UCS) — the meat powder — naturally elicits an unconditioned response (UCR) — the dog salivates. This is wired in at birth. Then Pavlov presented a neutral stimulus (NS) — a tone from a bell — *immediately before* the meat powder. The tone doesn't naturally elicit salivation. Dogs don't salivate at bells.
-
-But the tone and the meat powder were presented together, repeatedly. After sufficient pairings, something shifted in the dog's nervous system. The bell alone now produced salivation. The neutral stimulus had become a conditioned stimulus (CS). The salivation it now produced was the conditioned response (CR).
-
-$$\text{Bell (CS)} \to \text{Salivation (CR)}$$
-
-The dog had learned the prediction: when the bell rings, meat arrives. The saliva is the dog's way of saying *I expect food*.
-
-Timing matters. The bell had to ring a few seconds before the meat, not after. The dog had to learn *prediction*: the bell predicts the food. If the food arrived first and then the bell, the dog would not learn the association because there's nothing to predict.
-
-Once the association is learned — this is called **acquisition**, the learning phase — what happens if you change the rules? Pavlov rang the bell without the meat powder. The dog salivated anyway. But if you keep ringing the bell without following with meat, something else happens. The salivation response gets weaker. Eventually it stops. This is **extinction**: the conditioned response diminishes when the unconditioned stimulus stops arriving.
-
-But here is the elegant part. If you rest the dog for a few hours, even after extinction has seemed complete, and then ring the bell again — the dog salivates. The response hasn't vanished. It's dormant. Pavlov called this **spontaneous recovery**: the reappearance of an extinguished response after a rest period.
-
-This is crucial because it tells you something about what learning actually is. The learning isn't erased by extinction. The dog isn't forgetting. Something else is happening at a deeper level — the dog's nervous system is learning a *new* association: the bell no longer predicts food. The old association is still there; it's just being suppressed by the newer, contradictory information.
-
-### The trade-off: breadth vs. constraint
-
-Classical conditioning works for one class of things: involuntary reflexes. Your pupils dilate in dim light; classically condition the dilation to a light switch and your pupils will dilate when someone flips the switch. Your immune system reacts to infection; some cancer patients develop nausea conditioned to their doctor's office because the office was paired with chemotherapy so many times. Your heart rate elevates in fear; pair that fear response with a neutral stimulus enough times and you can classically condition fear to almost anything — this is how phobias are born.
-
-But classical conditioning does not work for behaviors that aren't reflexive. You cannot classically condition someone to become taller, or to solve calculus problems faster, or to remember names better. Classical conditioning conditions *what already exists as a reflex*. It redirects that reflex to a new trigger.
-
-This is the trade-off at the heart of classical conditioning. The mechanism is remarkably reliable for what it does — pairing works, extinction works, spontaneous recovery works, and the evidence is overwhelming. But it only works for behaviors that are already automatic. Most of what humans need to learn — how to surf, how to read, how to navigate a career — isn't automatic. Those behaviors are more complex. They require a different mechanism.
-
-### Named misconception: this isn't about bribery
-
-A parent watches classical conditioning being explained and thinks: "So if I pair a hug with bedtime, my daughter will start loving bedtime?" Yes and no. Hugging at bedtime might reduce the anxiety response that bedtime sometimes triggers. It can classically condition her nervousness to diminish. But it cannot make her *want* to go to bed. It cannot create a new behavior. Classical conditioning is about redirecting reflexes, not about motivation. It is not a reward system. This confusion leads to the next mechanism.
-
-### Worked example: the cancer patient and the oncologist
-
-Priya is a 34-year-old woman being treated for lymphoma. Her first three sessions of chemotherapy made her nauseous — the unconditioned stimulus was the chemotherapy drug itself, the unconditioned response was nausea and vomiting. After the third session, she developed a conditioned response: merely entering the oncologist's office — the same office where her treatments happen — triggers nausea before any drug is administered.
-
-Identify the elements:
-- **UCS:** chemotherapy drug
-- **UCR:** nausea/vomiting
-- **CS:** the oncologist's office
-- **CR:** nausea in response to the office
-
-Why does this happen? Over three sessions, the office has been paired repeatedly with the chemotherapy. From the nervous system's perspective, the office predicts nausea. So the body starts preparing by generating nausea in advance.
-
-What if the pattern changes? If Priya's next visit to the office is a check-up with no chemotherapy, the CS (office) occurs without the UCS (drug). This is extinction. If the nausea response gradually weakens over several office visits without chemotherapy, that's the extinction process working. If she then goes six months without visiting the office, and returns for a follow-up, the nausea might reappear briefly — spontaneous recovery. The old association is still encoded somewhere, just suppressed.
-
-### Common misconceptions
-
-**Classical conditioning produces permanent learning.** It doesn't. Extinction is real. Once you break the pairing — stop ringing the bell when food arrives — the conditioned response fades. It doesn't disappear instantly, but it weakens over repeated trials.
-
-**Classical conditioning explains all learning.** It doesn't. It explains only the conditioning of reflex responses. Most human learning — how to write an essay, how to ride a bike, how to negotiate a conflict — involves conscious intent and voluntary behavior. Classical conditioning alone cannot account for these.
-
-**Pavlov's work was about reward and punishment.** It wasn't. Pavlov was measuring physiology: saliva. The dog wasn't "trying" to salivate to show it expected food. The salivation was the involuntary reflex. This distinction becomes crucial when we move to operant conditioning, where behavior *is* voluntary and consequences *do* matter.
+That change — the relatively permanent change in behavior or knowledge that comes from experience, not from instinct, not from reflex — is what this chapter is about. Learning is a mechanism. Three mechanisms, actually. And once you see them clearly, you understand not just how people acquire skills and fears and habits, but why some things are easy to learn and some are nearly impossible, why some learning lasts a lifetime and some evaporates, and why the most powerful teaching is often done by people who aren't trying to teach at all.
 
 ---
 
-## Concept 2 — Operant Conditioning: Learning from Consequences
+## The first mechanism: what the bell taught Pavlov
 
-B. F. Skinner inherited the project Pavlov began. But where Pavlov worked with reflexes, Skinner asked a different question: how do animals learn behaviors that aren't reflexive? How does a rat learn to press a lever? How does a child learn to clean her room? These behaviors aren't automatic. They have to be *shaped*.
+Ivan Pavlov was not trying to discover learning. He was studying digestion. He wanted to measure salivation in dogs — how much saliva the body produces in response to food. The apparatus was careful: a dog in a harness, a tube to collect the saliva, a metronome ticking in the background as experimental ambient noise.
 
-The answer came from psychologist Edward Thorndike. In 1911, Thorndike observed cats in cages. Each cage had a latch. If the cat pressed the latch, the cage door opened and the cat could escape. At first, the cat tried random behaviors — scratching, pacing, meowing. Eventually, by accident, it hit the latch. The door opened. The cat escaped.
+Then something happened that redirected his career.
 
-Thorndike put the cat back in the cage. The next trial, the cat took longer but eventually hit the latch. Trial three, faster still. By trial twenty, the cat moved directly to the latch and escaped in seconds. The cat had *learned* which behavior led to escape.
+The dog began salivating before the food arrived. At the tick of the metronome. At the sound of footsteps approaching. At the sight of the food bowl. Pavlov had not changed anything about the food. The dog was responding to something else — to the *prediction* of food.
 
-Thorndike formulated this observation as the **law of effect**: behaviors that are followed by satisfying consequences are more likely to be repeated. Behaviors followed by unsatisfying consequences are less likely to happen again. It's intuitive. It's also powerful.
+He called it "psychic secretion" and found it interesting enough to abandon digestion entirely.
 
-### The mechanism: reinforcement and punishment
+Here is the mechanism, step by step.
 
-Skinner built on Thorndike's insight but was meticulous about terminology. In operant conditioning — so named because the organism operates on its environment to produce a consequence — the key words are *reinforcement* and *punishment*. These don't mean what most people think they mean.
+An unconditioned stimulus — the meat powder — naturally elicits an unconditioned response — salivation. No learning required. The dog's nervous system came with this response. Now you present a neutral stimulus — a bell — immediately before the meat powder. The bell means nothing to a dog. Dogs don't salivate at bells. But you ring the bell, then present the food. Bell, then food. Bell, then food. Dozens of times.
 
-*Reinforcement* means increasing a behavior. *Punishment* means decreasing a behavior. Those are the only definitions. Whether something is reinforcing or punishing depends entirely on whether the behavior it follows increases or decreases.
+After sufficient pairings, something shifts. The bell alone now produces salivation. The neutral stimulus has become a conditioned stimulus. The salivation it now elicits is the conditioned response.
 
-Now add a second dimension: *positive* means adding something, *negative* means removing something.
+$$\text{Bell (conditioned stimulus)} \to \text{Salivation (conditioned response)}$$
 
-Combine them and you have four quadrants.
+What the dog learned is a prediction: when the bell rings, meat arrives. The saliva is the dog's body saying *I expect food*. The nervous system is doing something genuinely useful — preparing for what's about to happen based on what reliably preceded it before. This is not stupidity or illusion. It is anticipation built into the body.
 
-**Positive reinforcement**: add something desirable after a behavior, the behavior increases. A child cleans her room; parents offer ice cream; the child cleans her room more often. Skinner used food pellets with rats. The rat pressed the lever; food appeared; the rat pressed the lever more.
+Timing matters precisely. The bell must ring just before the food — not after. If the food arrives first and then the bell, the dog learns nothing, because there's nothing to predict. Classical conditioning is about forward prediction. The conditioned stimulus must precede the unconditioned stimulus by a short window — seconds, not minutes.
 
-**Negative reinforcement**: remove something undesirable after a behavior, the behavior increases. A car beeps annoyingly if you haven't buckled your seatbelt. You buckle the seatbelt; the beeping stops; you're more likely to buckle in the future. The beeping removal was negative reinforcement. The behavior (buckling) increased because something aversive was removed.
+Now change the rules. Ring the bell without following it with food. The dog salivates. Ring it again without food. The dog salivates, but less. Keep going. The response gets weaker. Eventually it stops. This is extinction: the conditioned response fades when the unconditioned stimulus stops arriving.
 
-**Positive punishment**: add something undesirable after a behavior, the behavior decreases. A child runs into the street; parents scold loudly; the child avoids the street. An aversive stimulus (the scolding) was added; the behavior (street running) decreased.
+But wait. Let the dog rest for a few hours after extinction seems complete. Ring the bell. The dog salivates again.
 
-**Negative punishment**: remove something desirable after a behavior, the behavior decreases. A teenager posts something disrespectful online; parents take away their phone for a week; the teenager thinks twice before posting similar things again. A desirable stimulus (the phone) was removed; the behavior (disrespect) decreased.
+This is spontaneous recovery, and it is the most revealing feature of classical conditioning. The response reappeared after apparent extinction — which means the extinction didn't erase the learning. Something else happened. The dog's nervous system learned a new, contradictory association: the bell no longer predicts food. The old association — bell predicts food — is still encoded. It's being suppressed by the newer information. Rest removes the suppression temporarily.
 
-Notice what's *not* in these categories: none of them is about reward in the colloquial sense. When someone says "I rewarded my child," they usually mean positive reinforcement. But "reward" is imprecise. The precise term is reinforcement. And reinforcement is defined by its effect: does the behavior increase or not? If it increases, it was reinforcing. If it doesn't, it wasn't — no matter how "nice" the consequence was.
+This tells you something deep about what learning is. It is not a filing system where old entries get overwritten. It is an accumulation. Old learning persists. New learning competes with it. The outcome in any moment depends on which prediction is most active.
 
-Here is the critical distinction that parents and teachers often miss: **reinforcement is not bribery**. Bribery is offering something before a behavior to induce it. "I'll give you $5 if you clean your room." Reinforcement is providing the consequence *after* the behavior and letting the effect speak for itself. The behavior increases, or it doesn't. Reinforcement is not manipulation. It's not a shortcut to motivation. It's a mechanism. The organism behaves. The consequence follows. The behavior's frequency adjusts as a result.
+### Where the mechanism works and where it stops
 
-### Schedules of reinforcement: timing and frequency
+Classical conditioning conditions involuntary reflexes — responses the body already has. The immune system produces nausea in response to chemotherapy; pair the clinic with treatment enough times, and the clinic alone will trigger nausea. The autonomic nervous system produces elevated heart rate in response to threat; pair a neutral object with a threat enough times, and the object alone will elevate heart rate. This is how phobias are born: not through choice, but through pairing.
 
-Skinner made a second discovery that changed how we think about learning. Not all reinforcement schedules produce the same effect.
+<!-- → [DIAGRAM: classical conditioning sequence — three rows showing (1) before conditioning: UCS→UCR, NS→no response; (2) during conditioning: NS+UCS→UCR repeated; (3) after conditioning: CS→CR — student should see the NS transform into a CS through repeated pairing, with timing arrow showing NS must precede UCS] -->
 
-Imagine you're training a dog to sit. At first, you reward every sit. The dog sits, gets a treat, sits again, gets a treat. This is **continuous reinforcement**. It's the fastest way to teach a new behavior. But once the behavior is established, something interesting happens if you switch to rewarding only *some* of the sits.
-
-In **partial reinforcement** — also called intermittent reinforcement — the organism doesn't get rewarded every time. There are four main patterns:
-
-**Fixed interval**: reinforcement comes at predictable time intervals. A hospital patient on a patient-controlled pain pump receives medication every hour, even if they press the button more often. The behavior doesn't increase. If you know the next reward is an hour away, pressing the button more accomplishes nothing.
-
-**Variable interval**: reinforcement comes at unpredictable time intervals. You check your email, sometimes there's a response, sometimes there isn't, sometimes hours pass. The average might be three times an hour, but you never know *when*. This produces steady, persistent checking behavior.
-
-**Fixed ratio**: reinforcement comes after a set number of responses. A factory worker earns a commission on every tenth item produced. This produces a high rate of behavior with a brief pause after each reinforcement.
-
-**Variable ratio**: reinforcement comes after an unpredictable number of responses. This is the most powerful schedule. And it describes, almost exactly, what happens at a slot machine. You might win on the first pull. You might win on the hundredth. You never know. So you keep pulling. The uncertainty is what makes the behavior so persistent.
-
-Variable ratio schedules are so powerful that they produce behavior that resists extinction. A gambler who has been on a variable ratio schedule — never knowing when the next win will come — will continue gambling far longer than someone trained on a fixed ratio schedule. The behavior is almost immune to extinction. This is why gambling is addictive not because the winnings are large, but because the *uncertainty* of winning taps into a learning mechanism that evolution built for persistence in the face of unpredictability.
-
-### The trade-off: speed vs. durability
-
-Here is the central trade-off in operant conditioning: **positive reinforcement works fast but doesn't build durability. Punishment works fast but generates fear and avoidance.**
-
-Positive reinforcement is the most effective way to establish a new behavior. But once the behavior is learned, if you want it to stick, you need to shift to a partial schedule. Continuous reinforcement leads to rapid extinction once reinforcement stops. If a child learns that cleaning her room *always* earns ice cream, and then one day ice cream isn't available, the room cleaning might stop. But if the ice cream came unpredictably — sometimes after this cleaning, sometimes after two cleanings, sometimes never — the child is more likely to keep cleaning even when ice cream stops coming, because she's never been certain about the schedule anyway.
-
-Punishment is faster than reinforcement at *stopping* an undesired behavior. A single shock at an invisible fence teaches a dog to stay within bounds almost immediately. But the cost is fear and anxiety. The dog doesn't approach the boundary without nervousness. Children punished harshly develop fear not just of the behavior but of the person administering the punishment, and sometimes generalize that fear to the whole setting. A child beaten at home might fear parents, avoid home, or come to associate caregiving with pain. The behavior stops, but the collateral damage is substantial.
-
-### Named misconception: punishment and negative reinforcement are not the same
-
-This is the most common mistake in operant conditioning. Negative reinforcement *increases* behavior by removing something aversive. Punishment *decreases* behavior by adding something aversive or removing something desirable.
-
-A seatbelt beep that stops when you buckle (negative reinforcement) makes you *more likely* to buckle. A speeding ticket (punishment) makes you *less likely* to speed — at least when a police car is visible.
-
-### Worked example: gambling and the brain
-
-Consider Sarah, who walks into a casino for the first time. She puts a quarter in a slot machine. Nothing happens. Another quarter. Nothing. She's about to quit. Then the machine lights up, bells chime, and twenty-five quarters spill out. She's made a $6 profit on a $7 investment.
-
-From the perspective of operant conditioning: the slot machine is providing variable ratio reinforcement. She doesn't know how many quarters she needs to insert before the next payoff. It might be the next one. It might be a hundred pulls from now. The unpredictability is the mechanism.
-
-What's happening in Sarah's brain? Her dopamine system — the neurotransmitter associated with motivation and reward-seeking — is activated. And here's the neurological subtlety: dopamine fires not just when she wins, but when she *almost* wins. A near-miss on the slot machine — two cherries and a lemon — activates her reward centers almost as much as a win. The brain is learning prediction error: she was expecting the win, so the near-miss triggers dopamine as the system recalibrates.
-
-This is why slot machines show so many near-misses. They're not accidents. They're programmed to activate the reward system as powerfully as possible on a variable ratio schedule. The reinforcement schedule and the brain's neurobiology align perfectly to produce persistence. The behavior resists extinction because the schedule keeps promising that the next pull might be the one.
-
-And here is the moral weight: this same mechanism — dopamine, unpredictability, variable ratio scheduling — is used to teach rats to gamble pathologically. And it's used in video games, social media, and any system designed to maximize "engagement." The mechanism works. It works on human brains the same way it works on rat brains. The trade-off is clear: quick, persistent behavior at the cost of compulsion.
-
-### Common misconceptions
-
-**Reinforcement is the same as reward.** It isn't. A consequence is only reinforcing if the behavior it follows *increases*. Some people find praise reinforcing; others find it embarrassing and might actually decrease the behavior they're praised for. The definition lies in the effect, not in the intent.
-
-**Punishment always works.** It doesn't. Punishment can teach fear and avoidance but not the *correct* behavior. If a child is punished for running into the street, the child might learn to fear the street or fear the parent — but not *what to do instead*. This is why Skinner and modern behavioral scientists prefer reinforcement of the desired alternative.
-
-**You can't use operant conditioning on humans.** You absolutely can. Token economies in schools — where students earn points for behavior and exchange them for privileges — are operant conditioning. Salary structures, grade systems, airline frequent-flyer programs. Every system that changes behavior through consequences is operant conditioning.
+The constraint is sharp: you cannot classically condition behaviors that are not already reflexive. You cannot classically condition a person to enjoy reading, because enjoyment is not a reflex. You cannot classically condition someone to solve calculus problems faster. Classical conditioning redirects what already exists as an automatic response. It cannot create new voluntary behaviors. For those, you need a different mechanism.
 
 ---
 
-## Concept 3 — Observational Learning: Learning by Watching
+## The second mechanism: what the lever taught Thorndike
 
-Albert Bandura watched a different kind of learning altogether. He noticed that children learn behaviors they've never been directly reinforced for. They watch adults, other children, and characters on television, and then *imitate* those behaviors. They don't need direct experience. They don't need to press the lever themselves and discover it dispenses food. They watch someone else press the lever, watch the food appear, and when given the chance, they press the lever too.
+In 1911, Edward Thorndike built a series of puzzle cages. Each cage had a latch. If a cat inside pressed the latch, the door opened and the cat could escape to food. He placed a hungry cat in the cage and watched.
 
-But observation isn't simple copying. If it were, every child who watches violence on television would become violent. Every child who sees a parent smoke would smoke. The reality is more interesting: some models are imitated and others are not. Some observed behaviors are adopted and others are forgotten. The mechanism has steps.
+At first the cat tried everything — scratching, pacing, pressing against the walls. Random behavior. At some point, by accident, a paw hit the latch. The door opened. The cat escaped. Thorndike put the cat back in. Again the cat tried random behaviors, but now it reached the latch faster. Trial after trial, the time to escape got shorter. By the twentieth trial, the cat walked to the latch and hit it almost immediately.
 
-### The four steps: attention, retention, reproduction, motivation
+The cat had learned which behavior produced the consequence it wanted. Thorndike called this the **law of effect**: behaviors followed by satisfying consequences are more likely to recur; behaviors followed by unsatisfying consequences are less likely to recur. Fifty years later, B.F. Skinner turned this observation into a science.
 
-Bandura identified four requirements for observational learning to succeed:
+### The mechanism: consequences shape frequency
 
-**Attention.** You have to notice the model and what the model is doing. If you're distracted, scrolling on your phone while someone demonstrates a guitar chord, you don't learn it. The mechanism requires focus. This is why children's attention to television is so powerful — the screen captures and holds attention in a way a lecture might not.
+Skinner's terminology is precise and it matters.
 
-**Retention.** You have to remember what you observed. You watch your parent do the shoulder shrug and eye roll that dismisses a problem. You retain that memory. Later, when you're frustrated, the same gesture emerges from your body, not because you planned it but because the motor pattern was stored.
+*Reinforcement* means a behavior increases. *Punishment* means a behavior decreases. These are defined by their effects — not by their intent. A consequence is only reinforcing if the behavior it follows actually becomes more frequent. A consequence is only punishing if the behavior actually becomes less frequent. You don't get to declare something a reward or punishment; the organism's behavior decides.
 
-**Reproduction.** You have to be *able* to perform the behavior physically. You watch a concert pianist's hands and are mesmerized. But you cannot sit down and play that piece because you lack the finger strength and the motor coordination. You retained the observation. You cannot reproduce it.
+Add a second dimension: *positive* means adding a stimulus, *negative* means removing one. Combine them:
 
-**Motivation.** You have to *want* to imitate the model. And motivation depends on what you saw happen to the model. This is where **vicarious reinforcement** and **vicarious punishment** enter.
+**Positive reinforcement**: add something desirable, behavior increases. A rat presses a lever, a food pellet appears, the rat presses the lever more often.
 
-If you observe a model being rewarded for a behavior, you're more motivated to imitate it — not because you've been directly reinforced, but because you've seen the model receive reinforcement. This is vicarious: you experienced it through watching, not through doing.
+**Negative reinforcement**: remove something aversive, behavior increases. A car beeps until you buckle your seatbelt. Buckling removes the beep. You become more likely to buckle. The behavior increased because something unpleasant was removed. This is *not* punishment. It is reinforcement — the behavior went up.
 
-Conversely, if you observe a model being punished, you're less motivated to imitate. You've learned, vicariously, that the behavior leads to punishment.
+**Positive punishment**: add something aversive, behavior decreases. Speeding gets you a ticket. The ticket is added; speeding decreases (at least when police are visible).
+
+**Negative punishment**: remove something desirable, behavior decreases. A teenager is disrespectful; the phone gets confiscated. A desired thing is removed; the behavior decreases.
+
+<!-- → [TABLE: four quadrants of operant conditioning — positive reinforcement, negative reinforcement, positive punishment, negative punishment — columns: what happens, what changes in behavior, example; rows labeled "Add stimulus" and "Remove stimulus" crossed with "Behavior increases" and "Behavior decreases"] -->
+
+The most common confusion is between negative reinforcement and punishment. Negative reinforcement *increases* behavior by removing something bad. Punishment *decreases* behavior by adding something bad or removing something good. The seatbelt beep that stops when you buckle is negative reinforcement — it made buckling more likely. The speeding ticket is positive punishment — it made speeding less likely. The word "negative" in negative reinforcement does not mean bad. It means removal.
+
+### Schedules: when the consequence arrives matters as much as what it is
+
+Skinner discovered something beyond reinforcement and punishment: the *schedule* of reinforcement — how often and on what pattern the consequence arrives — changes the behavior dramatically.
+
+**Continuous reinforcement**: reward every single instance of the behavior. This is the fastest way to establish a new behavior. The rat presses the lever; every press delivers a pellet. The rat learns fast. But continuous reinforcement produces the weakest durability: once the pellets stop, the pressing stops quickly. The rat has learned that pressing produces pellets and has learned, equally clearly, that when there are no pellets, pressing is pointless.
+
+**Partial reinforcement** — rewarding only some instances — changes everything. There are four patterns:
+
+*Fixed ratio*: reinforce after every nth response. Reinforce every tenth lever press. The rat presses rapidly to earn the next pellet, then briefly pauses after each reward before launching into the next run. High rate of behavior, predictable pauses.
+
+*Variable ratio*: reinforce after an unpredictable number of responses. Sometimes after three presses, sometimes after forty. The rat never knows when the next reward arrives. So it keeps pressing. And pressing. The behavior is nearly continuous and extremely resistant to extinction, because the rat has already experienced long runs without reward — the absence of a pellet is no evidence that pressing isn't working.
+
+*Fixed interval*: reinforce the first response after a set time period. The rat's first press after sixty seconds earns a pellet. This produces a distinctive scallop pattern: very little pressing early in the interval, increasing rate as the end approaches.
+
+*Variable interval*: reinforce the first response after an unpredictable time period. Produces steady, moderate, persistent behavior. Email checking is variable interval reinforcement: sometimes there's a message, sometimes there isn't, the interval varies, and so you check steadily and persistently.
+
+<!-- → [CHART: four cumulative response curves — fixed ratio, variable ratio, fixed interval, variable interval — x-axis: time, y-axis: cumulative responses; student should see that variable ratio produces the steepest slope (highest rate) with no post-reinforcement pauses, and fixed interval produces scallops] -->
+
+The variable ratio schedule is the most powerful schedule known. It produces the highest sustained rate of behavior and the strongest resistance to extinction. The slot machine is variable ratio. You pull the lever — sometimes it pays, sometimes it doesn't, sometimes it pays on the third pull and sometimes on the three hundredth. You never know. So you keep pulling. The behavior is almost immune to extinction, because the animal has been trained to persist through long stretches without reward. This is not a coincidence. Casinos designed it this way. They understood operant conditioning before they understood its name.
+
+### The trade-off
+
+Positive reinforcement builds behavior efficiently with minimal collateral damage. But it requires identifying and delivering the consequence reliably.
+
+Punishment stops behavior faster, but the side effects are expensive. The organism learns fear and avoidance — not just of the specific behavior, but of the context, the person, the setting. A child punished harshly at home may avoid home. A worker punished publicly may avoid the manager. The behavior decreases, but so does the relationship. Punishment also teaches what not to do, not what to do instead. An organism punished for pressing the left lever doesn't thereby learn to press the right one.
+
+This is why Skinner and behavioral scientists since him prefer reinforcing the desired alternative rather than punishing the undesired behavior. The mechanism targets the same outcome — a change in behavioral frequency — but without the fear architecture that punishment builds alongside it.
+
+---
+
+## The third mechanism: what the Bobo doll taught Bandura
+
+Albert Bandura noticed something operant conditioning couldn't explain. Children learn behaviors they have never been directly reinforced for. A child watches an older sibling successfully whine for dessert. The child whines for dessert. No one reinforced the child for whining. No one even demonstrated the whining *to* the child as a technique. The child simply watched what worked for someone else and, when the moment came, tried it.
+
+This is observational learning. It is not classical conditioning — no reflexes are being paired. It is not operant conditioning — no consequence is directly shaping the child's behavior. It is learning from watching a model.
+
+But observation is not simple copying. If it were, every child who watched violence on television would become violent. Every child of an alcoholic would drink. Observational learning has requirements.
+
+**Attention.** You have to notice what the model is doing. Distraction breaks the mechanism.
+
+**Retention.** You have to store what you observed. The motor pattern, the sequence, the outcome — all of it has to be encoded in a form you can retrieve.
+
+**Reproduction.** You have to be physically capable of performing the behavior. You can watch a concert pianist's hands for a thousand hours and not reproduce it, because you lack the motor coordination and finger strength. The observation is retained. The reproduction is impossible.
+
+**Motivation.** You have to want to imitate. And motivation, Bandura found, depends critically on what you saw happen to the model.
+
+This is **vicarious reinforcement and punishment**. If you watch a model being rewarded for a behavior, you become more motivated to imitate — not because you've been rewarded, but because you've seen the reward delivered. Vicariously. If you watch a model being punished, you become less motivated to imitate, for the same reason. You've learned from someone else's consequence.
 
 ### The Bobo doll experiment
 
-Bandura's most famous study involved a five-foot-tall inflatable clown doll. He had adults (the "models") act out aggression with the doll while children watched. The model hit the doll, kicked it, punched it, and shouted at it. In one condition, the adult was then praised and given treats — the model was reinforced for aggression. In another condition, the adult was scolded and told to stop — the model was punished.
+Bandura placed children in a room with an adult model and a five-foot-tall inflatable clown doll. The model hit the doll, kicked it, punched it, and shouted specific phrases at it. In one condition, another adult praised the aggressive model and gave them treats — vicarious reinforcement. In another, the aggressive model was scolded and punished — vicarious punishment.
 
-Later, the children were placed alone in the room with the doll and other toys.
+Children were then placed alone with the doll. The result was clean: children who watched the model being rewarded imitated the aggression in detail — the same gestures, the same phrases. Children who watched the model being punished did not.
 
-The result was clear: the children who watched the model being rewarded for aggression then imitated that aggression. They hit, kicked, and punched the doll with the same gestures they'd seen. The children who watched the model being punished were less likely to imitate the aggression immediately.
+Then Bandura offered all the children rewards to imitate the aggression. The children who had watched the model being punished suddenly knew exactly how to do it. They performed the behavior precisely.
 
-But here's what happened next: Bandura offered the children rewards for imitating the aggression. And the children who had watched the model being punished suddenly knew exactly how to do it. They hadn't failed to learn. They hadn't forgotten. They had learned the behavior but had learned, through vicarious punishment, that it wasn't worth doing. Once the motivation changed — once they were directly rewarded — they could reproduce the behavior perfectly.
+This distinction matters enormously. **Learning and performance are not the same.** The children had observed the aggression. They retained it. They could reproduce it. What differed between the groups was motivation — derived from what they'd seen happen to the model. The learning was complete in both groups. The performance was suppressed in the punished-model group until motivation changed.
 
-This distinction is crucial. **Learning and performance are not the same.** Children learn through observation what violence looks like, how it sounds, what gestures it involves. But whether they *perform* that violence depends on what they've seen happen to models who perform it.
+The implication: a child can learn a behavior pattern completely, hold it in reserve, and perform it when conditions make it worthwhile. The absence of performance is not the absence of learning.
 
-### The trade-off: efficiency vs. risk
+<!-- → [DIAGRAM: Bandura's four requirements for observational learning shown as a sequential filter — attention → retention → reproduction → motivation — with arrows and notes showing that failure at any stage breaks the imitation chain; motivation shows branching arrows for vicarious reinforcement (increases) and vicarious punishment (decreases)] -->
 
-Observational learning is extraordinarily efficient. A child watches a parent tie shoelaces once and thereafter ties their own. A teenager watches a friend apply makeup and understands the technique without written instruction. A student watches a teacher solve a math problem and can solve similar problems independently.
+### The efficiency and the risk
 
-But this efficiency has a cost: *negative* models are learned as effectively as positive ones. A child who watches a parent resolve anger through yelling learns that yelling resolves problems. The learning is not about "good" or "bad" — the mechanism doesn't distinguish. The child learns the behavior pattern and, depending on what happens to the model, is motivated to perform it.
+Observational learning is extraordinarily efficient. Julian learned to surf partly by watching his father ride waves. A medical student learns to suture by watching surgeons. A child learns grammar not from instruction but from constant exposure to fluent speakers. Entire cultural traditions are transmitted through modeling — watching, retaining, reproducing — without explicit instruction.
 
-This is where trauma, abuse, and cycles of violence become mechanistically clear. A child who watches a parent use violence to solve problems learns the pattern. If the parent is reinforced — if the violence "works," if others back down, if the child learns the parent's status improves through violence — the child is more motivated to imitate. The abuse wasn't the teaching; the abuse was the model. The learning mechanism is neutral. The outcomes are not.
+The risk is the same efficiency. Negative models are learned as effectively as positive ones. A child who watches a parent resolve conflict through yelling learns that yelling resolves conflict. The learning mechanism is neutral — it doesn't tag behaviors as good or bad. The child learns the behavior pattern and, if the pattern is reinforced vicariously (the yelling "works," the other person backs down), is motivated to reproduce it.
 
-### Named misconception: violent media causes violence (or doesn't)
-
-The research on media violence and aggression is contentious, and here's why: observational learning *can* happen from media, but it requires all four steps. A child must *attend* to the violence. They must *retain* it. They must be *capable* of reproducing it. And they must be *motivated* — which depends on whether they've observed the character being rewarded or punished.
-
-What the research actually shows is more nuanced than "violent games cause violence" or "violent games are harmless." Exposure to violent media correlates with increased aggression in some populations, under some conditions, particularly when the violence is shown *without* consequences or when the perpetrator is presented sympathetically. But the relationship is not simple causation. It's associational, and many other factors — family environment, mental health, peer influence — matter.
-
-The mechanism is observational learning. Whether the learning leads to violent behavior depends on the same four steps that determine any imitation. Media violence is powerful because it provides constant exposure to models without necessarily showing negative consequences.
-
-### Worked example: modeling in parenting
-
-Consider two parents trying to teach children healthy eating habits.
-
-**Parent A** reads studies about nutrition and tells the child: "Eat vegetables. They're good for you." The child doesn't eat vegetables.
-
-**Parent B** eats vegetables regularly, enjoys them visibly, and keeps the house stocked with vegetables. The child begins eating vegetables without being told.
-
-Why? Parent A is relying on instruction. Parent B is relying on observational learning. The child attends to Parent B's behavior (eating vegetables regularly). The child retains the observation (vegetables are something this person I respect eats). The child can reproduce it (eating vegetables is physically simple). The child is motivated because the model — Parent B — appears to enjoy the behavior and derives no visible punishment from it.
-
-Bandura's insight is that the most powerful teaching is modeling. Not explaining. Showing.
-
-### Common misconceptions
-
-**Observation produces immediate imitation.** It doesn't. Learning and performance are separate. A child observes many behaviors that she doesn't immediately perform. The learning is stored. Performance depends on motivation.
-
-**Violent video games cause violence in everyone who plays them.** They don't. The mechanism is observational learning, and observational learning requires attention, retention, reproduction, and motivation. Some people are not motivated to imitate violence they observe. The effect is real for some populations but not universal.
-
-**We can prevent observational learning by restricting exposure.** We can reduce exposure, but we cannot eliminate observational learning. Even restricted exposure can be powerful. And restriction itself can become a model — the restriction teaches the child that this behavior is forbidden, which can paradoxically increase motivation through psychological reactance.
+This is the mechanical account of why cycles of violence and dysfunction persist across generations. Not fate. Not bad character. Observational learning of a model, vicariously reinforced.
 
 ---
 
-## Integration — The three mechanisms and their boundaries
+## How the three mechanisms work together
 
-Here is the landscape of learning. All three mechanisms — classical, operant, observational — operate simultaneously in most real situations. But they explain different things.
+The three mechanisms are not competing explanations. They operate simultaneously in most real-world learning, and they explain different components of the same situation.
 
-**Classical conditioning** explains how we come to react emotionally or physiologically to new triggers. A soldier who hears a car backfire flinches because the sound has been paired with explosions. A patient who feels nausea entering a hospital because the hospital has been paired with chemotherapy. A person who feels anxiety in crowds because crowds were paired with humiliation. These are involuntary responses that were learned through association.
+Return to Julian on the surfboard. The fear he feels when a large wave approaches? That's classical conditioning — the wave has been paired with being knocked under, and his nervous system now produces a fear response to the wave's approach. His persistence in paddling back out after each fall? That's operant conditioning — his father's approval, the brief moments of standing, the pleasure of the ride are intermittent reinforcers that keep him trying. His technique — the crouch, the pop, the weight shift? Mostly observational learning. He watched his father do it, retained the motor pattern, reproduced it imperfectly at first, and was motivated by the model's obvious success.
 
-**Operant conditioning** explains how we learn behaviors that have consequences. How children learn to clean rooms, how workers learn to be punctual, how animals learn to perform tricks. The behavior is voluntary — the organism is operating on its environment — and the consequence shapes whether the behavior happens again.
+Most teaching works the same way. A teacher who simply explains correct behavior is addressing none of the three mechanisms directly. Classical conditioning addresses involuntary responses — fear, nausea, anxiety, desire — not voluntary skill. Operant conditioning addresses behavioral frequency through consequences, but it requires you to wait for the behavior to occur before reinforcing it. Observational learning bypasses that waiting — the model demonstrates the complete behavior, and the observer can skip to the practice stage.
 
-**Observational learning** explains how we acquire complex skills, cultural knowledge, and social patterns without direct experience. How a teenager learns to speak in the accent of their peers, how a medical student learns surgery by watching experienced surgeons, how cultural practices persist across generations.
+This is why Bandura's conclusion is counterintuitive and correct: the most powerful teaching is modeling. Not explaining. Not reinforcing. Showing. And making sure the student watches what happens to the person who does the thing you want them to do.
 
-The boundaries matter because they reveal limits. Not everything can be classically conditioned. Conditioned responses are limited to involuntary reflexes. You cannot classically condition someone to enjoy reading, because enjoying is not a reflex.
+The limits are equally important. Classical conditioning can redirect reflexes, but it cannot create new voluntary behaviors. Operant conditioning can shape any voluntary behavior, but it requires patience and precise timing of consequences. Observational learning can transmit complex patterns rapidly, but it requires physical capability for reproduction — you cannot learn to swim by watching swimming.
 
-Not everything can be shaped through operant conditioning alone. Complex skills like surgery or chess require not just reinforcement of the final behavior but practice with feedback, understanding of principles, and often observational learning from experts.
+Knowing which mechanism applies to the learning you care about is how you design interventions that actually work. A therapist treating a phobia is working on classically conditioned fear responses — extinction is the tool. A teacher trying to increase study frequency is working on operant conditioning — reinforcement schedule design is the tool. A parent trying to raise a kind child is working primarily through observational learning — the most important thing they can do is model kindness when they don't think anyone is watching.
 
-Not everything can be learned through observation. You cannot learn to swim by watching someone swim. You need to be in the water, experiencing the resistance and the feedback. You cannot learn to feel emotion through observation alone.
+That is not metaphor. It is mechanism.
 
-The three mechanisms often work together. A student learning to public speak might watch a successful speaker (observational learning), feel anxiety when giving her own speech (classical conditioning of the anxiety), and receive applause afterward (operant reinforcement of the behavior). All three mechanisms are shaping the learning.
-
-The power of understanding the mechanisms is not to use one and ignore the others. It's to recognize which mechanism is at work in a particular situation and to design interventions accordingly. If someone has a phobia of driving, operant reinforcement for driving behavior will help, but so will extinction of the classical conditioned fear response. If a child is struggling with reading, observational learning from skilled readers helps, but so does reinforcement for effort. If a trauma victim is experiencing flashbacks, that's classical conditioning of anxiety to environmental cues — and the treatment involves breaking that conditioning.
-
----
-
-## Chapter summary
-
-Learning is how experience changes behavior. Three associative mechanisms account for most of it.
-
-In classical conditioning, a neutral stimulus becomes associated with an unconditioned stimulus through pairing. Once paired repeatedly, the neutral stimulus alone elicits the response. This works because the association allows prediction. The mechanism is reliable for what it does — conditioning involuntary reflexes — but doesn't work for voluntary behaviors.
-
-In operant conditioning, the consequence of a behavior shapes whether the behavior happens again. Reinforcement increases behavior; punishment decreases it. The schedule of reinforcement matters enormously. Continuous reinforcement teaches fastest. Partial reinforcement, especially variable ratio, produces the most durable behavior. The trade-off is between speed and durability, and between effectiveness and side effects (punishment works fast but generates fear).
-
-In observational learning, behavior is acquired by watching models and being motivated to imitate them by what happens to the model. All four steps matter: attention, retention, reproduction, and motivation. Learning and performance are separate. A behavior can be learned but not performed if motivation is absent. This mechanism is powerful because it allows complex skill and cultural transmission without individual trial and error.
-
-None of these mechanisms is universally applicable. Each has boundaries. Understanding the boundaries is as important as understanding the mechanisms themselves.
-
----
-
-## Graduated exercises
-
-### Warm-up: Identifying the mechanism
-
-**Exercise 6.1** Your neighbor's dog cowers and trembles whenever a thunderstorm approaches, even before rain begins. The dog's owner says the dog "knows a storm is coming." Using terminology from classical conditioning, explain what's actually happening and name the UCS, UCR, CS, and CR.
-
-**Exercise 6.2** A teacher wants to reduce the frequency of a student raising his hand without waiting to be called. The teacher decides to ignore the student when he raises his hand without permission and to call on him promptly when he raises his hand after permission. Name the operant procedures being used and predict what will happen to the frequency of each behavior.
-
-**Exercise 6.3** A child watches his older sister successfully ask for extra dessert by whining. Later, the child whines for dessert and receives it. The next day, the parent decides not to give dessert when whining, no matter what. Explain what the child learned from observation and why the new consequence might not immediately eliminate the whining behavior.
-
-### Application: Designing interventions
-
-**Exercise 6.4** You are working with a client who has developed a strong anxiety response to driving after a minor car accident. The anxiety was classically conditioned: the accident (UCS) produced fear (UCR), and now the highway where it occurred (CS) produces anxiety (CR). Design an intervention using extinction principles to reduce this conditioned anxiety.
-
-**Exercise 6.5** A company wants to improve employee attendance. Attendance is currently around 88%. The company is considering offering a $100 bonus to any employee who doesn't miss a day in a month (fixed ratio schedule). What would operant conditioning theory predict about this approach? What alternative schedule might be more effective for long-term attendance, and why?
-
-**Exercise 6.6** You are designing a social media campaign to encourage a health behavior — say, flossing teeth. Use the four requirements for observational learning (attention, retention, reproduction, motivation) to design the campaign. What would you show? Who would you use as the model, and why? What would you show happening to the model?
-
-### Synthesis: Mechanism interactions
-
-**Exercise 6.7** A person who quit smoking two years ago encounters a former friend who still smokes. In the moment, the person feels a strong urge to smoke. Using the three learning mechanisms, explain what might be happening. Which mechanism is primary? How might the other two be contributing? How would you design an intervention?
-
-**Exercise 6.8** A therapist is working with someone who has PTSD from military service. The client experiences flashbacks triggered by loud noises. The therapist is also teaching the client relaxation skills and encouraging him to return to social situations that he's been avoiding. Identify which learning mechanism(s) each of the therapist's approaches targets and explain why combining them might be more effective than using any single approach.
-
-### Challenge: Limits and interactions
-
-**Exercise 6.9** Consider the statement: "Everything humans learn can be explained by operant conditioning." Identify three categories of learning that operant conditioning alone cannot explain. For each, identify which other mechanism(s) would be necessary. Provide a specific example in each category.
-
-**Exercise 6.10** Design an experiment to test whether a specific behavior (of your choice — learning a musical instrument, adopting a new exercise habit, changing a food preference) could be acquired primarily through observational learning versus operant conditioning versus classical conditioning. What would you measure? What would predict each mechanism's success or failure?
+<!-- → [TABLE: three-mechanism comparison — columns: mechanism, what it conditions, requires direct experience?, what makes behavior persist, real-world example, primary limit — rows: classical conditioning, operant conditioning, observational learning; student should be able to use this as a diagnostic tool to identify which mechanism is operating in any given situation] -->
 
 ---
 
 ## What would change my mind
 
-The current evidence strongly supports the existence of all three mechanisms. But my confidence that these three mechanisms account for *most* human learning would weaken if we discovered that complex cognitive learning (learning to reason, to solve novel problems, to understand abstract concepts) could not be adequately explained by combinations of these mechanisms and memory systems, without additional mechanisms. The mechanisms in this chapter are about behavior change and skill acquisition. Higher-level learning might operate differently.
+The current evidence strongly supports all three mechanisms. My confidence that they account for *most* human learning would weaken if we discovered that complex cognitive learning — how to reason, how to solve novel problems, how to understand abstract concepts — cannot be adequately explained by combinations of these mechanisms and memory systems without invoking additional mechanisms. The three mechanisms in this chapter are about behavior change and skill acquisition. Higher-order learning might operate differently.
+
+---
 
 ## Still puzzling
 
-I remain uncertain about the neural basis of the distinction between learning and performance in observational learning. Bandura showed experimentally that a behavior can be learned but not performed. But what changes in the brain when a child learns through watching but doesn't imitate? Where is the learning stored, and what neurological event triggers the decision to perform? The answer seems to involve motivation and prediction of consequences, but the precise mechanism at the neural level is still being worked out.
+I remain uncertain about the neural basis of the distinction between learning and performance in observational learning. Bandura showed experimentally that a behavior can be learned but not performed. But what changes in the brain when a child observes and retains but does not imitate? Where is the learning stored, and what neurological event triggers the decision to perform? The answer seems to involve motivation and prediction of consequences, but the precise mechanism at the neural level is still being worked out.
 
 ---
 
-## Tags
+## Exercises
 
-classical-conditioning • operant-conditioning • observational-learning • Pavlov • Skinner • Bandura • reinforcement-schedules • learning-mechanism • behavior-change • vicarious-learning
+### Warm-up
 
----
+**6.1** A soldier who served in a combat zone flinches and his heart rate spikes whenever he hears a car backfire, even years after returning home. Using classical conditioning terminology, name the UCS, UCR, CS, and CR. Then explain why extinction of this response is often slow and incomplete.
 
-*By Nik Bear Brown.*
+**6.2** A teacher gives students a gold star every single time they complete their homework. After two months, she runs out of gold stars and stops giving them. What does operant conditioning predict about what happens to homework completion — and what would she need to have done differently to produce a more durable behavior?
+
+**6.3** A child watches her older brother beg and whine until their parent gives him extra screen time. The next evening, the child begs and whines for extra screen time. Identify which learning mechanism is operating, name all four requirements it depends on, and explain which one is doing the most work in this scenario.
+
+### Application
+
+**6.4** A 28-year-old man developed a severe phobia of dogs after being bitten at age six. He now experiences intense anxiety when he sees any dog, even small ones behind a fence. (a) Trace the classical conditioning that produced this phobia — what was the UCS, UCR, CS, and CR? (b) What does *generalization* mean in this context, and why does it explain his fear of small dogs? (c) Outline an extinction-based treatment. What would happen to the fear response during treatment, and what should the therapist expect about spontaneous recovery?
+
+**6.5** A company wants to reduce late arrivals to meetings. They are considering two options: (A) publicly praising teams when everyone arrives on time, on a variable ratio schedule; (B) sending an email to the whole team every time someone is late, naming the person. (a) Classify each approach using Skinner's terminology. (b) Predict the behavioral outcome of each — both the intended effect and the likely side effects. (c) Which approach would you recommend, and why?
+
+**6.6** You are designing a training program to teach new surgeons a complex laparoscopic procedure. The residents have watched the procedure many times on video but have never performed it. (a) Which of Bandura's four requirements are already met, and which are not? (b) What would you design to address the unmet requirements? (c) At what point, if any, does operant conditioning become relevant in this training program?
+
+### Synthesis
+
+**6.7** A person who quit drinking three years ago attends a wedding at the venue where they used to drink heavily. They feel a sudden, intense craving — stronger than anything they've felt in months. (a) Which mechanism explains the craving? Name the specific elements. (b) They had believed they were "over it." What does spontaneous recovery tell us about what extinction actually does to a learned response? (c) Describe an intervention that targets the underlying mechanism rather than just willpower.
+
+**6.8** A parent wants to raise a child who is generous and kind. They are considering three approaches: (1) praising the child every time they share; (2) explaining the importance of kindness at dinner; (3) consistently modeling generosity themselves — donating, helping neighbors, sharing without comment. (a) Which mechanism does each approach primarily engage? (b) Which approach does the evidence suggest will be most effective, and why? (c) Could all three work together? Describe how.
+
+### Challenge
+
+**6.9** The claim is sometimes made that social media platforms are "addictive by design." Using the three learning mechanisms specifically — not just operant conditioning — build the strongest possible case for this claim. For each mechanism, identify what is being conditioned, how, and what reinforces it. Then name one prediction your analysis makes that could be tested empirically.
+
+**6.10** Design an experiment to test whether a fear response (to a specific stimulus of your choice) can be extinguished more effectively through (a) classical extinction alone, (b) operant reinforcement of an incompatible behavior, or (c) observational learning — watching a model interact calmly with the feared stimulus. What would you measure? What would you predict? What confounds would you need to control?
+
 ---
 
 ## LLM Exercise — Chapter 6: Learning
@@ -438,17 +306,18 @@ genuinely instantiates, and which it only superficially resembles.
 
 **Preview of next chapter:** Chapter 7 covers thinking and intelligence. You'll run Kahneman's Linda problem on Claude — the classic conjunction fallacy probe — and several other heuristic-driven errors. Does Claude exhibit human heuristics, or does it fail differently?
 
-
 ---
 
 ## AI Wayback Machine
 
-**Albert Bandura** was developed social learning theory and self-efficacy — Stanford psychologist whose Bobo doll studies reshaped how we think about learning.
+**Albert Bandura** developed social learning theory and self-efficacy — Stanford psychologist whose Bobo doll studies reshaped how we think about learning.
 
 **Run this:**
 
 ```
-Who is Albert Bandura, and how does their work connect to learning we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about their career or ideas.
+Who is Albert Bandura, and how does their work connect to learning
+we covered in this chapter? Keep it to three paragraphs. End with
+the single most surprising thing about their career or ideas.
 ```
 
 → Search **"Albert Bandura"** on Wikipedia.
