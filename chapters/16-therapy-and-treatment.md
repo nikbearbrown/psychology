@@ -49,6 +49,8 @@ The verdict is unsettling because it implies that the theories underlying each t
 
 This is either a statement about the power of good relationship, or a statement about our inability to measure the thing that actually distinguishes the therapies, or both. The research does not settle it.
 
+<!-- → [CHART: Dodo bird verdict — bar chart showing remission rates for depression across therapy types: CBT (~43%), psychodynamic (~40%), behavioral activation (~41%), combined therapy+medication (~55%), medication alone (~35%), no treatment/waitlist (~15%); student should see that the named therapies cluster tightly while the real gap is between any active treatment and no treatment, and that combination exceeds any single modality] -->
+
 ---
 
 ## Medication: what it does, what it explains, and what it doesn't
@@ -147,6 +149,38 @@ I would revise this chapter significantly if we discovered a biological marker �
 ## Still puzzling
 
 I do not fully understand why the therapeutic relationship predicts outcome as strongly as it does. Is it because a good relationship allows any technique to work? Or is the relationship itself the mechanism of change? Wampold argues the latter — that healing is relational, not technical — but we lack the evidence to settle it definitively.
+
+---
+
+## Exercises
+
+### Warm-up
+
+**16.1** Match each therapeutic approach to its core proposed mechanism: psychodynamic therapy, behavior therapy, cognitive therapy, humanistic therapy. The mechanisms are: uncovering repressed material; relearning through exposure; restructuring distorted thought; accepting the authentic self. Then, for each approach, name one specific technique the therapist would use to enact that mechanism.
+
+**16.2** An SSRI blocks serotonin reuptake immediately, but clinical improvement typically takes two to four weeks. (a) What does this timing gap tell us about the "chemical imbalance" theory of depression? (b) What does it suggest must be happening downstream from serotonin availability? (c) Does the fact that SSRIs work tell us that low serotonin causes depression? Explain why or why not.
+
+**16.3** Bruce Wampold's Dodo bird verdict states that different psychotherapies produce roughly equivalent outcomes. (a) What does this finding imply about the specific techniques each therapy proposes? (b) What single factor does predict outcome across all therapies? (c) Name one interpretation that would make the Dodo bird verdict false — what would have to be true?
+
+### Application
+
+**16.4** A 24-year-old with a severe phobia of flying has been unable to travel for three years. Their fear began after a turbulent flight. (a) Which therapeutic approach has the strongest evidence for specific phobias, and what is its mechanism? (b) Walk through how that approach would be applied in this specific case — what would the first three sessions look like? (c) What would a psychodynamic therapist say about the same case, and how would their approach differ?
+
+**16.5** A psychiatrist recommends sertraline (an SSRI) for a patient with moderate depression. The patient asks: "Will this cure my depression? Is it safe to take long-term?" (a) What is the honest answer about whether medication "cures" depression versus manages symptoms? (b) Name two significant side effects the patient should be informed about. (c) If the patient improves and wants to stop the medication after one year, what does the research suggest about discontinuation?
+
+**16.6** A researcher reports: "A new mindfulness-based app for anxiety showed 68% improvement rates in a trial of 50 participants." (a) Is this efficacy or effectiveness data? (b) What five questions would you ask before concluding this app works? (c) How might a community mental health context change the 68% figure if the app were deployed widely?
+
+### Synthesis
+
+**16.7** A person with PTSD from a violent assault has tried CBT-based trauma therapy twice. The CBT helped their avoidance and nightmares somewhat, but their sense of self-worth and relationships remain severely impaired. A friend suggests they try psychodynamic therapy instead. (a) What does the Dodo bird verdict say about whether switching would help? (b) What does the therapeutic alliance research say about what they should look for in the next therapist? (c) Design a second-line treatment plan that integrates more than one modality and explains the rationale for the combination.
+
+**16.8** The chapter identifies four unknowns: why SSRIs take weeks to work, why the therapeutic alliance predicts outcome so strongly, how much of treatment efficacy is placebo, and who will respond to what. (a) For each unknown, explain why it matters clinically — what would change in treatment practice if we had the answer? (b) Which of the four do you think is most important to resolve, and why? (c) For one of the four, propose a study design that could make progress on answering it.
+
+### Challenge
+
+**16.9** The chapter argues that the false binary — biological or psychological, medication or therapy, scientific or relational — has distorted mental health treatment. Construct the most specific version of this argument you can: name a real clinical case type (not a hypothetical), explain how the false binary has historically led to suboptimal treatment for that case, and describe what an integrated approach would look like instead.
+
+**16.10** This is the final chapter of the book. The arc runs from Wundt's introspection in 1879 through behaviorism, cognitivism, neuroscience, disorders, and arrives here at treatment. The chapter claims that understanding how the mind works in detail is not sufficient for knowing how to help people when it goes wrong. Write a 200-word argument for or against this claim, drawing on at least three specific examples from earlier chapters in the book (any chapters you have read). Be specific about what each example does or does not demonstrate.
 
 ---
 
