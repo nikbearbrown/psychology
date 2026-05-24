@@ -1,115 +1,71 @@
-<!--
-00-introduction.md — Book-level introduction.
-
-The Introduction does different work than the Preface:
-  - Preface  = why the book exists, why you wrote it (author's voice)
-  - Introduction = what the book argues and how it is organized (reader's roadmap)
-
-This file is a stub. Sections 1–10 and 12–13 are placeholders for a later pass.
-Section 11 (A note about AI) is substantive and written.
-
-A good model for the full version: Pearl's "The Mind Over Data" introduction,
-Molnar's Interpretable ML introduction. Both are argument-first and tell the
-reader exactly what to expect from each chapter.
--->
-
 # Introduction
 
-<!-- [1] COLD OPEN
-     A specific named scene with real stakes.
-     No "this book will...", no throat-clearing.
-     Open on a sentence that contains the whole problem.
-     Like the Swedish triage case in computational-skepticism-for-ai. -->
+A professional opens a familiar task and notices that the work has changed shape. The old bottleneck was production: finding the information, drafting the document, calculating the answer, building the artifact. The new bottleneck is judgment. A machine can now produce something fluent enough to move through the workflow. The harder question is whether it should.
 
-[COLD OPEN PLACEHOLDER]
+This book is about the gap between domain work as it used to be taught and domain work as it now has to be practiced with AI in the room.
 
-<!-- [2] THE CENTRAL CLAIM — one sentence.
-     "This book is about the gap between [X] and [Y]." -->
+The central argument is simple and contestable: the professional advantage in Psychology no longer comes from doing every step by hand. It comes from knowing what to delegate, what to verify, what to reject, and what human judgment must still own because the consequences attach to a person, a community, an institution, or a client.
 
-[CENTRAL CLAIM PLACEHOLDER]
-
-<!-- [3] THE CENTRAL ARGUMENT — a testable, contestable claim
-     about what the book is doing. -->
-
-[CENTRAL ARGUMENT PLACEHOLDER]
-
-<!-- [4] AUDIENCE LOCATION — one sentence locating who this is for. -->
-
-[AUDIENCE PLACEHOLDER]
-
----
+This is a textbook for readers who want to use AI without surrendering the part of the work that makes them responsible. It is for learners, teachers, practitioners, and contributors who need a practical map rather than another list of tools.
 
 ## What This Book Is
 
-<!-- [5] Scope. The work the book names. Vocabulary it teaches. -->
+Psychology: with LLMs is a guided course in the concepts, workflows, and judgment calls that define Psychology in the AI era. It teaches vocabulary, recurring patterns, practical exercises, and the discipline of checking machine output against human purpose.
 
-[SCOPE PLACEHOLDER]
+The book names the work that AI can accelerate and the work that still requires human interpretation. It treats AI as infrastructure: powerful, fast, useful, and incomplete. The point is not to become impressed by the machine. The point is to become more precise about what the human is for.
 
 ## What This Book Is Not
 
-<!-- [6] Explicit exclusions. Prerequisites. -->
+This book is not a promise that AI will solve Psychology. It is not a tool manual frozen to one product release. It is not legal, medical, financial, or professional advice for a specific jurisdiction or institution. When a chapter touches regulated practice, compliance, clinical care, finance, education policy, or public stakes, the reader should treat the material as a framework for judgment and seek qualified guidance where the decision requires it.
 
-[EXCLUSIONS PLACEHOLDER]
+The book assumes curiosity, basic literacy in the domain, and a willingness to test claims rather than merely repeat them. It does not assume that the reader is already an AI expert.
 
----
+## The Running Concept
 
-## A Central Concept That Runs Throughout
+The running concept is the boundary between execution and judgment. AI systems are increasingly strong at execution-shaped work: generating, summarizing, transforming, classifying, drafting, coding, and searching. Human beings remain responsible for problem formulation, plausibility auditing, causal interpretation, ethical tradeoffs, social context, and accountability under stakes.
 
-<!-- [7] A recurring idea readers should watch for across chapters.
-     Like "the fluency trap" in computational-skepticism-for-ai. -->
+A recurring danger is the fluency trap: the tendency to treat polished output as evidence that the underlying work has been done. Fluency is useful. It is not proof. Across the chapters, watch for the moment when a fluent artifact needs a human test.
 
-[CENTRAL CONCEPT PLACEHOLDER]
-
-<!-- [8] (OPTIONAL) A RUNNING NARRATIVE THREAD
-     A case that recurs across chapters as a worked example.
-     Like "Ash" in computational-skepticism-for-ai.
-     Delete this section if not using a running thread. -->
-
-## A Running Narrative Thread
-
-[NARRATIVE THREAD PLACEHOLDER — delete this section if not using one]
-
----
 
 ## How This Book Is Organized
 
-<!-- [9] Chapter-by-chapter map. Group into movements (clusters of 3–5)
-     if applicable. One sentence per chapter is enough. -->
+The chapters are arranged as a sequence of practical confrontations with the same larger problem: what changes when AI can do part of the work, but not own the consequences?
 
-[CHAPTER MAP PLACEHOLDER]
+1. **Three possible titles** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
+2. **Chapter 2 — Psychological Research** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
+3. **Biopsychology: How Mind Emerges from Matter** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
+4. **Chapter 4 — States of Consciousness** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
+5. **Chapter 5 — Sensation and Perception** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
+6. **Chapter 6 — Learning** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
+7. **Chapter 7 — Thinking and Intelligence** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
+8. **Memory** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
+9. **Chapter 9 — Lifespan Development** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
+10. **Chapter 10 — Emotion and Motivation** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
+11. **Chapter 11 — Personality** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
+12. **Chapter 12 — Social Psychology** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
+13. **Industrial-Organizational Psychology** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
+14. **Chapter 14 — Stress, Lifestyle, and Health** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
+15. **Chapter 15 — Psychological Disorders** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
+16. **Chapter 16 — Therapy and Treatment** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
 
-## How to Read This Book
+## How To Read This Book
 
-<!-- [10] Order. Prerequisites for skipping around.
-     Self-contained chapters. Chapter-closing features
-     (e.g., "What would change my mind", "Still puzzling", exercises). -->
+Read the opening chapters in order if you are new to the subject. They establish the vocabulary and the boundary conditions. Later chapters can usually be read as focused modules, especially if you are looking for a specific workflow, case, or professional risk.
 
-[READING GUIDE PLACEHOLDER]
+Do the exercises. The point of an AI-era textbook is not recognition. It is transfer: can you take the distinction from the page and use it on a task the book has never seen?
 
----
+## A Note About AI
 
-## A Note about AI
+This book was made in the same world it describes. Agentic AI systems were used to gather source material, draft candidate passages, check assertions, generate examples, and support editorial workflows. That does not make the book machine-authored. It makes the production boundary explicit.
 
-Psychology is the field where the model is most fluently quasi-therapeutic and most dangerously so. The textbook teaches the science of behavior and mental processes; the model has read enough of it to sound knowledgeable and has no clinical training, no diagnostic authority, and no view of any specific person. The note marks the boundary.
+The editorial claim of the AI+1 series is that AI can help with execution while humans remain responsible for judgment. That means the book must be read with the same discipline it teaches. Claims should be checked. Examples should be tested. Definitions should be compared with practice. If something looks too smooth, slow down.
 
-The model has read every introductory psychology textbook — biological, cognitive, developmental, social, personality, clinical. It will produce competent paragraphs on neurons, sensation and perception, learning theory, memory, language, intelligence, motivation, the major schools of personality theory, and the canonical psychiatric disorders. The fluency is useful for orientation in a field whose subfields are many.
+The most important AI skill is not prompting. It is accountability. A prompt can produce output. A professional has to decide whether the output belongs in the world.
 
-Where the model genuinely helps: explaining the major theories (operant conditioning, classical conditioning, social learning theory, the dual-process accounts of cognition, the major personality models, the canonical models of psychopathology), walking through the structure of famous experiments (Asch's conformity studies, Milgram's obedience studies, the Stanford Prison Experiment and its methodological critiques), producing the major findings from each subfield, and generating structured comparisons across theoretical traditions.
+## Closing Return
 
-Where the model does damage: producing specific clinical claims, characterizing specific psychological conditions, diagnosing, or giving any form of personal mental-health advice. The model is not a clinician. Its descriptions of conditions are aggregated from a literature that the model summarizes rather than evaluates. Its responses to questions like "what do my symptoms mean" or "am I depressed" can be confident, plausible, and dangerously wrong — and acting on them in place of professional consultation is the failure mode this note exists to prevent.
+Return to the professional at the beginning: the familiar task, the new machine, the old responsibility. The machine has changed the tempo of the work. It has not removed the need for judgment. Start there. Then build.
 
-A specific failure mode worth naming: the model is particularly fluent in *therapeutic-sounding* prose — empathic, validating, reflective — without the clinical training that makes therapeutic intervention safe. A student or user who treats the model's prose as a substitute for therapy has not received therapy; they have received a fluent text that resembles therapy and can delay or replace seeking the real thing.
+## Tags
 
-The rule that covers all three: theories and findings from the model; clinical claims from clinicians; mental-health support from licensed professionals. Use the model to understand psychology so you can evaluate research, ask better questions, and have informed conversations. Do not let the model's empathic prose convince you that you have received psychological care from a system that cannot provide it.
-
----
-
-## Closing
-
-<!-- [12] Callback to the opening scene. End with a directive. -->
-
-[CLOSING PLACEHOLDER]
-
----
-
-**Tags:** <!-- [13] 5–8 discoverability tags --> [TAGS PLACEHOLDER]
+Psychology, AI+1, Humanitarians AI, Irreducibly Human, agentic AI, computational skepticism
