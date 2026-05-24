@@ -1,269 +1,206 @@
-# Industrial-Organizational Psychology
-
-## Three title options
-
-1. **How Work Shapes Us and How We Measure the Fit**
-2. **The Machinery of Selection, Motivation, and Leadership**
-3. **Why Being Watched Changes Everything: The Hawthorne Effect and What It Teaches**
+# Chapter 13 — Industrial-Organizational Psychology
+*What counts as evidence that a workplace decision works.*
 
 ---
 
-## TL;DR
+In October 2019, an organization ended a telework program that had allowed 12,000 employees to work from home. The evidence seemed clear: when people worked remotely, average wait times for service had increased and backlogs had grown. Productivity appeared to drop. The data said: end the program.
 
-Industrial-organizational psychology asks how human behavior and work affect each other — it studies the machinery of selection (who succeeds in which roles), motivation (what keeps people engaged and committed), and leadership (how power and culture shape what individuals do). The field began when researchers noticed that *being studied itself changes behavior*, a discovery that turned a factory into a laboratory and made the social conditions of work as important as the tools.
+Four months later, a pandemic arrived.
 
----
+The organization now had to defend a decision that looked, in retrospect, like it had been made with a narrow ruler. The measurement that seemed conclusive was measuring wait times and backlogs. It was not measuring what happens to the motivation of someone who no longer trusts their employer. It was not measuring the burden on the worker forced to choose between their paycheck and infection risk. It was not measuring what revocation of a benefit — without explanation, without consultation — does to organizational commitment over the next two years.
 
-It is October 2019. An organization has decided to end a program that allowed 12,000 employees to work from home. The decision comes after careful measurement: when people teleworked, average wait times for service went up. Productivity appeared to drop. Backlogs accumulated. The evidence seemed clear. End the program.
-
-Four months later, a pandemic arrives. The government asks: could telework protect workers from infection? Could it maintain continuity of service? The organization finds itself defending a decision that suddenly looks dangerous. The measurement that seemed conclusive six months ago was incomplete. It measured wait times and backlogs. It did not measure the state of mind of someone who no longer trusts their employer. It did not measure the burden on the worker who must now choose between livelihood and infection risk. It did not measure the cost to organizational commitment when a benefit is revoked without explanation.
-
-This is the actual problem industrial-organizational psychology confronts. Not wait times. Not backlogs. The question beneath: *What counts as evidence that a decision works?*
+The question beneath the wait-time data was always: *what counts as evidence that a decision works?* Measuring the easy thing and ignoring the hard thing produces decisions that look correct on the metrics and fail in the organization. Understanding the hard things — the machinery of selection, motivation, and leadership — is what industrial-organizational psychology is for.
 
 ---
 
-## Section 1: How the field emerged — from hiring to the discovery that observation changes everything
+## The discovery that changed the field
 
-In 1924, Western Electric operated a manufacturing plant called the Hawthorne Works in Chicago. The plant assembled telephone relays — intricate devices that required concentration and precision. Management wanted to know whether physical conditions in the factory affected productivity. They chose lighting. Would brighter light increase output? Would dimmer light hurt it?
+In 1924, Western Electric's Hawthorne Works in Chicago assembled telephone relays. Management wanted to know whether lighting conditions affected productivity, so researchers began adjusting the lights.
 
-Researchers turned the lights up. Output increased.
+They turned the lights up. Output increased.
 
-Then they turned the lights down. Output increased again.
+They turned the lights down. Output increased again.
 
-Then they returned the lights to their original state. Output *increased still further*.
+They returned the lights to the original level. Output increased still further.
 
-By every measure of physical manipulation, the logic should have failed. Dimmer light should have hurt productivity. Returning to baseline should have reduced output compared to the improvement phase. Yet at each step, workers produced more.
+No physical manipulation produced the predicted result. Elton Mayo, who led the studies, eventually understood why. The variable wasn't the light. The variable was *being observed*. Workers knew researchers were paying attention to them — knew they mattered to someone taking notes — and that awareness changed how they worked. The improvement faded when the observation stopped.
 
-Elton Mayo, who led these studies, eventually understood what was happening. The variable was not the light. The variable was *being observed*. When researchers paid attention to workers — when workers knew they mattered to someone taking notes — those workers behaved differently. They worked harder. They collaborated more visibly. The improvement faded when observation stopped.
+This is now called the **Hawthorne effect**, and it changed the field's center of gravity. Before these studies, industrial psychology was primarily about selection — finding the right person for the job. After, it became organizational psychology too — the study of how the social conditions of work shape behavior, motivation, and commitment. The act of measurement changes what is measured. A worker who knows they are being studied is not the same worker who emerges when the study ends.
 
-This discovery, now called the **Hawthorne effect**, made visible something that had been invisible before: *the act of measurement changes the thing being measured*. In physics this principle appears in quantum mechanics — the observer affects the particle. In organizations, it appears in human form. A worker who knows they are being studied is not the same worker that emerges when the study ends.
+(One honest note: later reanalyses suggest the original effect was smaller than Mayo claimed — the data were analyzed in ways that may have overstated the result. The effect is real, but the original study probably made it seem larger than it is. This is worth holding onto. Even foundational findings in this field require re-examination.)
 
-The Hawthorne studies marked a turning point. Before, industrial psychology was mostly about selection — hiring the right person for the job. After, it expanded into organizational psychology — the study of how people work together, how motivation operates, how leadership shapes behavior and commitment. The factory became the laboratory. The social conditions of work became as important as the machines.
+The field today has three main branches. **Industrial psychology** focuses on hiring, training, and evaluation — assessing whether a person can do a job and helping them do it better. **Organizational psychology** focuses on motivation, engagement, and leadership — what keeps people committed and how organizations shape behavior. **Human factors psychology** focuses on the human-machine interface — how to design tools and workspaces so people can work safely and effectively. A fourth emerging cluster addresses occupational health and humanitarian work psychology — applying the field's tools to workers in crisis, conflict zones, and communities rebuilding after disaster.
 
-The field today has three main branches. **Industrial psychology** focuses on hiring, training, and evaluating — how to assess whether a person can do a job and help them do it better. **Organizational psychology** focuses on motivation, job satisfaction, and leadership — what keeps people committed and how organizations shape human behavior. **Human factors psychology** (or ergonomics) focuses on the human-machine interface — how to design tools and workspaces so people can work safely and effectively. 
-
-Humanitarian work psychology and occupational health psychology address populations facing disaster, disease, climate disruption, and economic collapse. These specialties take the machinery learned in the other three and apply it to the underserved: refugee populations, workers in conflict zones, communities rebuilding after natural disaster.
-
-The insight that ties all of these together is the one Mayo stumbled on: *the conditions under which people work are not separate from the work itself*. They shape the work. They become part of the result.
+The thread connecting all of it is the Hawthorne insight: the conditions under which people work are not separate from the work itself. They shape the work. They become part of the result.
 
 ---
 
-## Section 2: The industrial side — selection and assessment
+## The industrial side: hiring the right person
 
-**What does it mean to hire the right person?**
+You cannot answer the question "who should we hire?" until you answer a prior question: what is the job, exactly?
 
-Begin with the job. An organization cannot answer the hiring question until it answers a prior question: what is the job, exactly? What tasks does it require? What knowledge? What personality characteristics? What tolerance for stress? Until the job is specified, hiring is guesswork.
+This prior work is called **job analysis**. It requires sitting with people who do the job — and supervisors who watch it happen — and asking: what does a day look like? What goes wrong? What knowledge, skills, and personality characteristics prevent the bad outcomes? What do the best performers do that average performers don't? The result is a detailed inventory of requirements: not a vague description of the role, but specific measurements of task frequency, decision-making demands, physical demands, interpersonal demands, stress tolerance, pace.
 
-This specification work is called **job analysis**. It requires sitting with people who do the job (and supervisors who watch it happen) and asking: what does a day look like? What goes wrong? What skills prevent the wrong things? What personality characteristics help? The result is a detailed inventory of requirements — knowledge, skills, abilities, and personal characteristics.
+The U.S. Department of Labor maintains a database called O*Net containing job analyses for nearly every occupation. Look up any job and find specific data on what the work requires. Not "requires good communication skills." Requires the ability to resolve customer complaints using conflict-resolution techniques while maintaining regulatory compliance and managing simultaneously occurring service requests in a high-volume environment. That level of specificity is what good job analysis produces, and it is what makes useful hiring decisions possible.
 
-The U.S. Department of Labor maintains a database called O*Net that contains job analyses for nearly every occupation. You can look up any job — food server, elementary school teacher, industrial-organizational psychologist — and find thousands of data points about what the work requires. Not a vague description. Specific measurements of task frequency, decision-making demands, physical demands, interpersonal demands, work stress, pace of work.
+Once the job is specified, candidates can be assessed. The central question for each tool is the same: *does this tool predict who will succeed in this job?* This is **predictive validity**: the correlation between performance on the assessment and performance on the job.
 
-Once the job is specified, the candidate can be assessed. The assessment tools have names: structured interviews, personality tests, integrity tests, cognitive-ability tests, work simulations. The question for each is the same: *Does this tool predict who will succeed in this job?*
+The **cognitive ability test** — general reasoning, reading, quantitative skill — predicts job performance with moderate to strong correlations across a wide range of occupations (typically 0.3 to 0.5, higher for cognitively complex work). General Aptitude Test Battery, Wonderlic Personnel Test, Armed Services Vocational Aptitude Battery — these measure reasoning that transfers across tasks. They are among the most predictive single assessments available.
 
-Consider the personality test. A company wants to know whether a candidate high in *agreeableness* — the tendency to cooperate, to be pleasant, to avoid conflict — will succeed in a customer-support role. The hypothesis seems obvious: agreeable people make good customer-service representatives. But test it on real data. Hire people across the agreeableness range. Measure their job performance after six months. What does the data show?
+The **structured interview**, when done well, achieves similar predictive validity. The interviewer asks the same predetermined questions, in the same order and phrasing, to every candidate. Questions target specific job requirements. "Tell me about a time when you had to deliver difficult news to a customer. What did you say, and what happened?" Responses are scored against a rubric. This structure removes the variability that noise introduces — the candidate who makes a joke that lands, the interviewer who is having a bad day, the first impression that lingers too long. Structure lets signal (genuine differences in how candidates approach the job) emerge from noise.
 
-Often the relationship is weaker than expected. Sometimes too much agreeableness is actually a liability. A customer with a wrong understanding of a product needs to be told no. An overly agreeable representative will say yes to the misunderstanding and create bigger problems downstream. The relationship between personality and job performance is not intuitive. It requires measurement.
+The **personality test** is more complicated. The Big Five model (openness, conscientiousness, extraversion, agreeableness, neuroticism) predicts job performance with correlations typically between 0.25 and 0.40 for relevant dimensions. Conscientiousness — the tendency toward discipline, follow-through, and organized work — is the most consistently predictive across occupations. But the relationship is not always what intuition suggests. Agreeableness seems like an obvious predictor for customer-service work — agreeable people should be good with customers. But too much agreeableness creates its own problem: a customer with a wrong understanding of a product needs to be told no, and an overly agreeable representative will say yes to the misunderstanding, creating bigger problems downstream.
 
-This requirement creates a vocabulary. We say a hiring tool has **predictive validity** if performance on the tool correlates with success on the job. A personality test given to 100 job candidates, correlated against those same 100 candidates' job performance six months later, either predicts performance (correlation is substantial) or it does not (correlation is weak or absent).
+The **MBTI** — which sorts people into 16 types based on Jung's typology — is popular in corporate training and coaching contexts and has essentially no predictive validity for job performance. The reason is structural: type models reduce continuous human variation to discrete categories. When you need to predict something, a spectrum is more informative than a category. A person isn't "an introvert." They sit at some point on a spectrum of social engagement, and that point matters in specific ways for specific jobs. The MBTI collapses that information. The Big Five preserves it.
 
-The language sounds clinical. In practice it is profoundly human. A test with weak predictive validity is a test that fails to distinguish who will thrive from who will struggle. If you use that test, you hire people who will fail. They experience that failure. The organization experiences turnover, training costs wasted, customers served poorly. The machinery of selection is about preventing that waste.
+The **work simulation** or **assessment center** is the most expensive and the most predictive. Candidates perform tasks similar to the actual job under observation. A candidate for a management role leads a group discussion of a business problem. A candidate for a customer-service role handles a simulated difficult customer interaction. Their performance is scored against explicit criteria. Assessment centers achieve predictive validity of 0.37 to 0.50 in meta-analyses, because they measure something close to the actual job rather than traits assumed to predict performance. The cost — in design time, administration, and evaluator training — is high enough that organizations typically use them only for competitive positions where the stakes justify it.
 
-The structured interview, when done well, has moderate to strong predictive validity. The researcher sits with a candidate and asks a predetermined set of questions, in the same order and phrasing, to every candidate. The questions target specific job requirements. One question might be: "Tell me about a time when you had to deliver bad news to a customer. What did you say?" The candidate's response is scored against a rubric. Candidates are compared on the same scale.
+The core trade-off in selection: *predictive validity versus candidate experience*. A test that perfectly predicts job success but requires eight hours of testing has excellent validity and poor candidate experience. A twenty-minute screening feels respectful but may be less informative. A test that disadvantages protected groups may be technically valid but legally and ethically problematic. Organizations must choose where along these spectrums to operate, and the choice has consequences for who shows up to apply.
 
-Why does structure improve prediction? Because structure removes the variability that noise introduces. An unstructured conversation is swayed by first impressions, by whether the interviewer is having a good day, by which candidate happens to make a joke that lands well. Structure says: ask the same question the same way. This allows signal — genuine differences in how candidates think about the job — to emerge from the noise.
-
-Personality tests in employment settings are controversial. The Big Five model (openness, conscientiousness, extraversion, agreeableness, neuroticism) has moderate predictive validity for many jobs. The Myers-Briggs Type Indicator (MBTI), which classifies people into 16 types, has essentially no predictive validity for job performance and is not recommended by industrial psychologists for hiring decisions, though it is very popular in coaching and team-building contexts.
-
-Here is where a myth must be corrected: *The data shows that personality types do not predict job performance well. Personality traits — measured along continuous scales — do predict performance modestly, with correlations typically between 0.25 and 0.40 for the most relevant dimensions.*
-
-Why the difference? Type models like MBTI reduce human variation to a small number of discrete categories. Trait models preserve variation as a spectrum. When you need to predict something, spectrums are more informative than categories.
-
-The other major tool is the **cognitive ability test** — what used to be called an IQ test. Cognitive ability predicts job performance across a wide range of occupations with moderate to strong correlations (typically 0.3 to 0.5, higher for complex jobs). The General Aptitude Test Battery, the Wonderlic Personnel Test, the Armed Services Vocational Aptitude Battery — these tests measure reasoning, reading, math, spatial reasoning, and related mental skills. They correlate with how people perform on jobs that demand mental work.
-
-This creates a genuine puzzle. A person with very high cognitive ability *can* do most jobs successfully. But they may not *want* to. They may leave for more cognitively demanding work. They may become frustrated with routine tasks. The Jordan v. New London case illustrates the dilemma: a police department rejected a candidate with very high cognitive ability, reasoning that he would become bored and leave. The courts found this acceptable — organizations can consider not just capability but the likelihood that a person will stay and remain engaged.
-
-The machinery of selection is built on a fundamental trade-off: predictive validity (does the test predict job success?) versus candidate experience (what does taking the test feel like for the person being evaluated?). A test that perfectly predicts job performance but requires the candidate to take 8 hours of testing has high validity and poor candidate experience. A test that takes 20 minutes feels respectful but may be less predictive. The organization must choose where on that spectrum to operate.
-
-One more tool deserves mention: the **work simulation** or **assessment center**. Candidates are asked to perform tasks similar to the actual job under observation. A candidate for a management role might be asked to lead a group discussion of a business problem. A candidate for a customer-service role might handle a simulated difficult customer interaction. Their performance is scored against criteria. This method has strong predictive validity (0.37 to 0.50 in meta-analyses) because it measures something close to the actual job rather than traits that *should* predict performance.
-
-Trade-off: assessment centers are expensive to design and administer, so they are typically used for competitive positions where the stakes (and investment) justify the cost.
+<!-- → [TABLE: Assessment method comparison — columns: method, typical validity coefficient, cost/time, key advantage, key limitation — rows: cognitive ability test, structured interview, Big Five personality measure, MBTI, work simulation — student should be able to choose the right tool for a given hiring context] -->
 
 ---
 
-## Section 3: The organizational side — motivation, engagement, and the limits of satisfaction
+## The organizational side: what keeps people engaged
 
-**What keeps someone in a job, engaged and committed?**
+You've hired the person. Now: what keeps them engaged, committed, and performing?
 
-In the 1960s, Frederick Herzberg asked this question directly. He interviewed 200 accountants and engineers. He asked them: when did you feel most satisfied with your work? When did you feel most dissatisfied?
+In the 1960s, Frederick Herzberg asked this question directly. He interviewed 200 accountants and engineers and asked two questions: when did you feel most satisfied with your work, and when were you most dissatisfied?
 
-The answers fell into two categories. Some factors, when *absent*, created dissatisfaction — low pay, poor working conditions, lack of respect from supervisors. Herzberg called these **hygiene factors**. They are the floor. They must be adequate or people will leave.
+The answers fell into two distinct categories. Some factors, when absent, created dissatisfaction: low pay, poor working conditions, lack of basic respect. Herzberg called these **hygiene factors** — the floor. They must be adequate or people leave. But increasing them doesn't reliably *increase* satisfaction. People adapt. A raise feels satisfying for a time, then becomes the new baseline. Giving someone more of something they've adapted to does not reliably make them happier.
 
-But increasing pay, improving conditions, or showing more respect did not reliably *increase* satisfaction. People adapted. They adjusted to higher pay as their baseline and no longer felt satisfaction. This is the observation that flattens much of motivational rhetoric: *giving someone more of something they adapted to does not reliably make them happier*.
+What did increase satisfaction was completely different: the content of the work itself. Did the job allow autonomy? Did it offer variety and challenge? Did it provide feedback that you were doing something valuable? Did it allow growth? Herzberg called these **motivational factors**. They're what pulls people forward.
 
-What *did* increase satisfaction was completely different: the content of the work itself. Did the job allow autonomy? Did it offer variety and challenge? Did it provide feedback that you were doing something valuable? Did it allow growth? Herzberg called these **motivational factors**. They are what pulled people forward.
+The practical implication: you cannot motivate people primarily through pay. You can pay them enough that they are not angry. After that, the real work of motivation is designing jobs that offer autonomy, variety, meaningful contribution, and growth.
 
-This is **Herzberg's two-factor theory**, and it reframes the hiring question. You cannot motivate people primarily through pay. You can pay them enough that they are not angry, and then the real work of motivation begins — designing jobs that offer autonomy, variety, growth, and meaningful contribution.
+**Expectancy theory**, developed by Victor Vroom, adds precision to this insight. It says motivation is a product of three things:
 
-Related to this is **expectancy theory**, developed by Victor Vroom. The theory says motivation is a product of three things: *Does this action lead to the outcome I want?* (expectancy) × *Do I value that outcome?* (valence) × *How much effort does this require?* (instrumentality).
+- *Expectancy*: Do I believe my effort will lead to the performance the organization wants?
+- *Instrumentality*: Do I believe that performance will lead to the reward offered?
+- *Valence*: Do I value that reward?
 
-A concrete example: You work in a call center. Your manager announces that top performers will get a bonus. The bonus is real. But expectancy theory asks: do you believe *your individual performance* will put you in the top-performer category? If the standard is unclear, or if you think the decision is political, your expectancy is low. Your motivation drops, even though the bonus would be valuable to you if you got it. Or: the bonus is tied to a metric you cannot directly control. Your instrumentality is low. Or: the bonus is small compared to what matters to you (time with family, recognition, growth). Your valence is low. Multiply low × something × something and motivation stays low.
+Multiply these three together. If any one is near zero, motivation is near zero.
 
-Expectancy theory is less optimistic than it sounds. It suggests that well-intentioned incentives often fail because organizations underestimate how complex motivation is. The manager says: "Here is what we are rewarding." The worker hears: "You probably won't achieve this, the metric is not under your control, and anyway what I actually care about is something else."
+A call center announces that top performers will get a bonus. The bonus is real. But expectancy theory asks: do you believe *your individual performance* will put you in the top tier? If the criteria are unclear, or if you think the decision is political, expectancy is low — motivation drops even though the bonus matters to you. Or: the bonus is tied to a team metric you can't individually influence. Instrumentality is low. Or: the bonus is $200 and what you actually care about is a different shift schedule. Valence is low. Well-intentioned incentives fail constantly because organizations underestimate the complexity of this calculation. The manager says "here is what we're rewarding." The worker hears "you probably won't achieve this, you can't control the metric, and anyway what I care about is something else."
 
-This connects to **job satisfaction** — how much a person likes their job. Meta-analyses (large summaries of many studies) show that job satisfaction correlates with job performance at about r = 0.30. That is a modest correlation. A person who is satisfied is somewhat more likely to perform well, but the relationship is not as strong as intuition suggests. The correlation is bidirectional — good performance may create satisfaction just as satisfaction may drive good performance.
+**Job satisfaction** — how much a person likes their job — correlates with job performance at about *r* = 0.30. That is a real but modest correlation. A satisfied person is somewhat more likely to perform well, but the relationship is weaker than intuition suggests. Good performance may create satisfaction just as satisfaction drives performance; the causal arrow points both ways. People can be satisfied but disengaged (content, unchallenged). They can be engaged but not satisfied (absorbed in difficult work, frustrated with obstacles). Engagement — genuine absorption in and identification with the work — predicts performance more strongly than satisfaction does.
 
-What predicts job satisfaction? Research shows that the characteristics of the work itself — the variety, challenge, clarity of role, skill use — predict satisfaction better than pay does. The meta-analysis by Timothy Judge and colleagues found that pay has a weak correlation with job satisfaction. People adjust to pay levels. After a raise, they feel satisfied for a time, then return to baseline. The satisfaction does not persist.
+One specific myth deserves correction: **high job satisfaction does not directly cause high job performance or low turnover**. The relationships are real but modest. A more satisfied person is somewhat more likely to stay and perform well. But job market conditions, family circumstances, alternative opportunities, and career stage all matter too. Organizations spend heavily to increase satisfaction and see limited returns in performance, partly because satisfaction without engagement is insufficient, and partly because the other factors matter.
 
-Job satisfaction also correlates with organizational commitment — the degree to which a person feels loyalty to and identification with their organization. But the relationship has a ceiling: increasing satisfaction beyond a certain point does not reliably increase commitment. Some of the most satisfied employees leave because they encounter a better opportunity. Some of the least satisfied stay because leaving is too costly.
-
-Here is a common myth to correct: *High job satisfaction does not directly cause high job performance or low turnover.* The relationships are real but modest. A more satisfied person is somewhat more likely to stay and perform well, but many other factors matter: job market conditions, family circumstances, the presence of an alternative opportunity, the person's career stage.
-
-Related is the concept of **engagement** — a state of involvement and absorption in work. An engaged employee thinks about problems outside work. Looks forward to coming in. Feels their work matters. Engagement is a psychological state distinct from satisfaction. You can be satisfied but not engaged (content, unchallenged). You can be engaged but not satisfied (absorbed in difficult work, frustrated with obstacles). The relationship between engagement and performance is stronger than the relationship between satisfaction and performance.
-
-One more piece: **work-life integration** — the balance between demands of work and demands of the rest of life. The term "work-life balance" suggests these are weights on a scale. The newer term "integration" suggests they are systems that interact. Someone working 50 hours per week but with flexibility and autonomy might integrate work and life better than someone working 40 hours in a role with constant surveillance and impossible demands.
-
-Research shows that work-life integration is linked to stress, burnout, health, and commitment. But the causal direction is complex. Poor integration leads to stress. Stress makes it harder to integrate work and life. Some roles (medicine, law, emergency services) have structural demands on time. Other roles have structural demands on attention and emotional presence. Integration is not just about hours.
-
-The trade-off on the organizational side is between standardization and autonomy. Standardize jobs and you can measure performance consistently. Add autonomy and you often get better engagement and performance, but measurement becomes harder. You cannot write a procedure for caring about a problem the way an autonomous worker might. You can measure whether a procedure was followed.
+<!-- → [TABLE: Motivation theories compared — columns: theory, what it claims drives motivation, what it predicts about incentives, what its critics say — rows: Herzberg two-factor, expectancy theory, job characteristics model — shows the different levers each theory identifies] -->
 
 ---
 
-## Section 4: Leadership and organizational culture
+## Leadership and organizational culture
 
-**How does power shape what people do?**
+Kurt Lewin, in the 1930s, ran experiments with groups of children assigned to leaders of different styles. **Authoritarian** leaders made decisions unilaterally. **Democratic** leaders guided groups toward consensus. **Laissez-faire** leaders were largely absent. Lewin observed aggression, productivity, and what happened when the leader left the room.
 
-In the 1930s, Kurt Lewin conducted experiments with groups of children. He assigned groups to leaders with different styles: **authoritarian** (the leader made decisions unilaterally), **democratic** (the leader guided the group toward consensus), and **laissez-faire** (the leader was largely absent). He observed aggression, engagement, and group cohesion.
+Authoritarian leadership produced adequate productivity when the leader was present and high frustration when the leader left — as if the children had been waiting to escape supervision. Democratic leadership produced collaborative groups with lower aggression, performing well both with and without the leader present. Laissez-faire groups were confused and unproductive. The style of leadership shapes how people behave not only when the leader is watching but when the leader is not.
 
-Authoritarian leadership produced lower frustration and aggression when the leader was present, but high frustration and aggression when the leader left (as if the children were waiting to escape supervision). Democratic leadership produced engaged, collaborative groups with less aggression regardless of whether the leader was present. Laissez-faire leadership produced confused groups with low productivity.
+Modern organizational psychology divides leadership into two dimensions. **Transformational** leaders inspire people, articulate a vision, challenge people to think differently, and provide individualized support. **Transactional** leaders set clear goals, reward good performance, and correct poor performance. Both can be effective, but they produce different cultures.
 
-A century later, this basic finding holds in organizations. The style of leadership shapes how people behave when the leader is watching and when the leader is not.
+Transformational leadership tends to generate higher engagement and commitment. It also carries a risk that the research cannot fully neutralize: charisma is directionally neutral. Jim Jones inspired devoted followers toward mass suicide. A charismatic leader can inspire people toward terrible goals using the exact same mechanisms that produce organizational excellence. The research shows that transformational leadership correlates with positive outcomes on average. It does not guarantee them. When charismatic leaders leave, the cultures they created often collapse. The machinery is powerful and fragile.
 
-In modern organizational psychology, leadership is often divided into two dimensions: **transformational** and **transactional**. A transformational leader inspires people, articulates a vision, challenges people to think differently, provides individualized support. A transactional leader sets clear goals, rewards good performance, corrects poor performance, manages by exception.
+Transactional leadership is more stable and predictable. Goals are explicit. Rewards and consequences are clear. It is less inspiring but also less risky. People know where they stand.
 
-Both styles can be effective, but they create different organizational cultures. Transformational leadership tends to produce higher engagement and commitment. It also carries a risk: charismatic leaders can inspire people toward terrible goals. Jim Jones inspired his followers to commit mass suicide. Cult leaders inspire devoted followers. The machinery of transformational leadership is the same whether the vision is noble or catastrophic.
+**Organizational culture** is the shared set of beliefs, values, norms, and behaviors that characterize an organization. It is communicated through stories, through symbols, and through what leaders actually do — not what they say. "We reward people who speak up" or "We fire people who question leadership" — these are culture statements that employees learn by watching what happens to the person who spoke up. Culture shapes what feels normal, what seems acceptable, what risks people are willing to take.
 
-Transactional leadership tends to be more stable and predictable. Goals are explicit. Rewards and consequences are clear. It is less inspiring but also less risky. People know where they stand.
+One concept predicts team performance and innovation consistently: **psychological safety** — the belief that it is safe to take interpersonal risks, to ask questions, admit mistakes, and challenge assumptions without punishment. In teams with high psychological safety, people surface problems before they become crises, build on each other's ideas, and question plans that won't work. In teams with low safety, people play it safe, hide problems, and say yes when they mean no.
 
-**Organizational culture** is the set of shared beliefs, values, norms, and behaviors that characterize an organization. Culture is communicated through stories, symbols, and the behavior of leaders. "We reward people who speak up" or "We fire people who question leadership." These are culture statements. Employees learn them by watching what happens.
+Psychological safety is built by leaders who admit uncertainty, invite input, and respond non-defensively to criticism. It is destroyed by leaders who punish questions, or by organizational cultures where one visible mistake ends a career. The research here is strong: psychological safety consistently predicts team performance. The mechanism is direct — people who feel safe speak up, and speaking up catches errors and generates ideas.
 
-Culture shapes what people think is normal. It shapes what people are willing to do. Research shows that organizational culture correlates with organizational performance, innovation, and employee retention. But the causal direction is not fully clear. Does a strong culture cause performance, or does success create a strong culture? Or do both emerge from good leadership?
+The leadership trade-off: *inspirational vision versus stability of execution*. A transformational leader disrupts the existing work in service of something new. A transactional leader stabilizes execution and clarifies goals without inspiring transformation. Organizations need both. The question is which is needed when, and in what proportion.
 
-One finding is well-supported: **psychological safety** — the belief that it is safe to take interpersonal risks in the group — predicts team performance and innovation. In teams with high psychological safety, people ask questions. They admit mistakes. They build on each other's ideas. In teams with low safety, people play it safe, hide problems until they become crises, and do not speak up when they see a better way.
-
-Psychological safety is created by leaders who admit uncertainty, invite input, and respond non-defensively to criticism. It is destroyed by leaders who punish questions or by organizational cultures where one mistake ends a career.
-
-The final trade-off on the leadership side: inspirational vision versus stability of execution. A leader who inspires people to think differently often disrupts the existing work. A leader who stabilizes execution and clarifies goals does not inspire transformation but makes the current work effective. Organizations need both. The question is when and in what proportion.
+<!-- → [INFOGRAPHIC: Leadership styles matrix — 2×2 grid with task-orientation on one axis and relationship-orientation on the other — shows where authoritarian, democratic, laissez-faire, transformational, and transactional styles sit, with a note about when each is effective] -->
 
 ---
 
-## Section 5: Synthesis — from individuals to systems
+## What the telework decision was missing
 
-Return to the telework question from the opening. An organization measured wait times and backlogs, found they had increased, and ended the program. The measurement was narrow: it captured part of the organizational outcome but missed the human and cultural outcomes.
+Return to October 2019. An organization measured wait times and backlogs, found they had increased, and ended the telework program. Each branch of I-O psychology identifies a different piece of what was missing.
 
-The industrial side says: did the people who teleworked have the right skills to do the job remotely? Had they been trained? Were they selected correctly for remote work? The answer might be no. If the telework program included people who were never assessed for self-direction and time management, performance might genuinely drop. The solution then is better selection and training of remote workers, not the elimination of remote work.
+The **industrial side** asks: were the people working remotely selected or trained for it? Remote work requires specific capacities — self-direction, time management, the ability to maintain communication without physical proximity. If the program included people who had never been assessed for these capacities, performance might genuinely drop for selection and training reasons. The solution then is better assessment of who works remotely and what they need to succeed in that mode — not the elimination of the option.
 
-The organizational side says: what was the impact on motivation and commitment? Did people feel that being allowed to work remotely was a sign that the organization trusted them? Did the removal of that benefit signal that the organization no longer valued them? If workers experienced the change as punitive, their engagement and commitment would drop, which would then affect performance. The measurement of wait times would not capture this.
+The **organizational side** asks: what was the impact on motivation and commitment? If workers experienced the benefit as a signal that the organization trusted them, revocation signals the opposite. Expectancy theory predicts that workers will reduce effort when they believe the organization's behavior toward them is not connected to their performance. Herzberg predicts that removing an autonomy-enabling benefit damages the motivational factors that hygiene interventions can't restore. The wait-time measurement captures none of this — it captures what happened in the first few months, not the two-year impact on engagement.
 
-The leadership side says: how was the decision communicated? Did leaders explain the business reasons? Did they invite input? Did they acknowledge the tradeoff? Or did workers wake up one day to a memo that their benefit had been revoked? The manner of the decision shapes culture and trust as much as the decision itself.
+The **leadership side** asks: how was the decision communicated? Did leaders explain the business reasons? Invite input? Acknowledge the trade-off? Or did workers wake up to a memo? The manner of the decision shapes culture and trust as much as the decision itself. A psychologically safe organization might have surfaced the wait-time data to workers and asked them to help solve the problem. That would have been a very different cultural signal than unilateral revocation.
 
-The human factors side says: what about the physical and cognitive ergonomics of remote work? Did workers have proper equipment? Space? Lighting? Interruption management? If they were working from kitchen tables in poor light with interruptions, performance would decline for reasons of ergonomic design, not because remote work itself is unproductive.
+The **human factors side** asks: did workers have proper equipment, lighting, workspace, and tools for remote work? If they were working from kitchen tables with inadequate equipment and constant interruptions, performance would decline for ergonomic reasons that have nothing to do with whether remote work is viable in principle.
 
-The full answer to the telework question requires looking at all of this machinery at once. Selection and training of remote workers. Motivation and commitment impact. Leadership communication. Ergonomic setup. Each part matters. Each part was probably overlooked in the wait-time analysis.
+The full answer to the wait-time problem requires looking at all four pieces simultaneously. Outcomes feel inevitable in retrospect — "we measured the outcome, it was bad, therefore the program was bad." But outcomes are produced by machinery with parts. If you change one part and the outcome worsens, you haven't learned the program is bad. You've learned that part matters. The next step is to redesign it and measure again.
 
-This is the value of industrial-organizational psychology: it makes visible the machinery that shapes organizational outcomes. Outcomes feel inevitable. "We measured wait times. They went up. Therefore the program failed." But outcomes are produced by machinery. That machinery has parts. If you change one part and the outcome worsens, you have not learned that the program itself is bad. You have learned that the part you changed matters. The next step is to redesign that part and try again.
-
----
-
-## Section 6: The limits and honest edges
-
-The field has real limitations and genuine uncertainties.
-
-**The Hawthorne effect itself is overstated.** Reanalyses of the original data suggest that the magnitude of the effect was smaller than Mayo claimed. The famous statement that productivity increased regardless of change may have been an artifact of how the data were analyzed. This is important because it shows that even foundational findings in this field require skepticism and re-examination. The effect is real — observation does change behavior — but the original study may have made it seem larger than it is.
-
-**Job satisfaction's link to performance is modest.** The correlation is real but weak enough that other factors matter more. You can be satisfied and perform poorly (low standards). You can be unsatisfied and perform well (driven by ambition, external pressure, or intrinsic motivation). Organizations often assume that improving satisfaction will improve performance, but the link is not direct.
-
-**Personality testing has been misused for screening.** The MBTI, in particular, is used widely in organizations despite having no predictive validity for job performance. People encounter this test, get assigned a "type," and build identity around it. The type then becomes sticky — people believe it describes something fundamental about them. There is little evidence that the types have much to do with actual behavior on the job.
-
-**Transformational leadership is less predictable than it seems.** The research shows that charismatic, vision-driven leaders correlate with high engagement and commitment. But charisma is a double-edged tool. A charismatic leader can inspire people toward noble goals or terrible ones. The organizational culture created by one transformational leader can crumble when that leader leaves. The machinery is powerful and fragile.
-
-**The causal direction of many relationships is unclear.** Does job satisfaction cause performance, or does performing well cause satisfaction? Does organizational culture cause success, or does success create a stronger culture? Does leadership style cause team cohesion, or do cohesive teams bring out better leadership? The correlations are real. The causal stories are often guessed.
-
-**Most of this field rests on samples from wealthy Western organizations.** The research comes primarily from the U.S., Western Europe, and a handful of other wealthy countries. Hiring practices, motivation structures, and leadership styles in other cultural contexts may operate very differently. The machinery described here is not universal.
-
-**The field was born from a context of management control.** Taylor's scientific management, for example, was explicitly designed to increase control over workers and extract more productivity. The early focus on selection was partly about hiring people who would be compliant. That history has not fully left the field. Even now, some applications of industrial-organizational psychology are about getting people to do more with less, not about designing work that is genuinely better for the worker.
+This is what I-O psychology is for: making visible the machinery that produces organizational outcomes, so that decisions can account for what they are actually changing — not just what is easy to measure.
 
 ---
 
-## Section 7: Exercises
+## What the field cannot yet tell you
+
+Job satisfaction's link to performance is modest enough that organizations often overinvest in satisfaction initiatives expecting performance returns that don't materialize. The correlation is real; it is not a reliable management lever.
+
+Personality testing has been misused at scale. The MBTI in particular is used widely for coaching and team-building despite having no predictive validity for job performance. People encounter the test, get assigned a type, build identity around it. There is little evidence these types have much to do with actual job behavior. This is a significant gap between the field's evidence and organizational practice.
+
+Transformational leadership research has a selection problem. The most inspiring leaders may simply be leading organizations that are already succeeding — so the correlation between charismatic leadership and organizational performance may partly reflect causation going the other direction. Strong organizations attract strong leaders and produce better outcomes for reasons that have nothing to do with the leader's style.
+
+The causal direction of most relationships in this field is unclear. Does satisfaction cause performance, or does performing well cause satisfaction? Does organizational culture cause success, or does success create a stronger culture? The correlations are real. The causal stories are often conjectural.
+
+Most of this research rests on samples from wealthy Western organizations. Hiring practices, motivation structures, and leadership in other cultural contexts may operate very differently. The machinery described here is not universal.
+
+---
+
+## What comes next
+
+Chapter 14 covers stress, lifestyle, and health — the physical and psychological toll that work extracts and how people cope. The stressors that I-O psychology identifies as organizational problems (job insecurity, role ambiguity, lack of control, poor leadership communication) are the same factors that Chapter 14 shows have measurable biological and health consequences. The machinery of the workplace, once built, shapes the psychological and physical health of everyone inside it.
+
+---
+
+## Exercises
 
 ### Warm-up
 
-**Exercise 13.1** *(LO: specify the job).* Choose a job you know or could research (teacher, nurse, cashier, software engineer). Use the O*Net database or your own knowledge to list five specific job requirements (knowledge, skills, abilities, or characteristics). For each requirement, propose one assessment method that might predict success in that requirement.
+**Exercise 13.1** *(Tests: job analysis and predictive validity.)* Choose a job you know or have held. List five specific requirements the job has — not vague descriptors ("good communicator") but behaviors and capacities ("must explain technical product limitations to non-technical customers without triggering returns"). For each requirement, name one assessment method that could predict whether a candidate has that capacity, and explain why the method fits.
 
-**Exercise 13.2** *(LO: distinguish hypotheses).* According to expectancy theory, motivation = expectancy × valence × instrumentality. For each scenario, identify which component is low and explain what could be changed:
-(a) A worker is told that top performers will get a bonus, but the criteria for "top performer" are vague.
-(b) A worker is told that productivity leads to bonus, but the bonus is $20 and the worker makes $60,000 per year.
-(c) A worker is told that they could earn a bonus by working overtime, but the worker values family time more than money.
+**Exercise 13.2** *(Tests: expectancy theory.)* For each scenario, identify which component of expectancy theory (expectancy, instrumentality, or valence) is lowest, and explain what the organization could change to raise it:
+- (a) A teacher is told that exceeding her performance targets will earn her a bonus. She doesn't believe she can exceed them because the metric is based on standardized test scores in a district with chronic poverty.
+- (b) A salesperson is told that high performance leads to a bonus. The bonus is $150 on a $90,000 salary. She values recognition and career advancement much more than extra cash.
+- (c) A software developer is told that completing all sprints on time qualifies him for a bonus — but whether sprints complete on time depends primarily on requirements handed to him by another team.
 
-**Exercise 13.3** *(LO: interpret and critique).* A company measures job satisfaction using a single question: "How satisfied are you with your job?" on a 1-10 scale. Explain what this measurement captures and what it misses. How could you improve it?
+**Exercise 13.3** *(Tests: Hawthorne effect.)* A manager decides to hold weekly one-on-one meetings with each direct report to monitor progress on a difficult project. Within three weeks, the team's output measurably improves. The manager concludes that weekly one-on-ones are an effective management practice.
+- (a) What alternative explanation does the Hawthorne effect suggest?
+- (b) How would you design a follow-up observation to distinguish between the two explanations?
+- (c) What does the honest note about the Hawthorne effect's reanalysis imply for how you should interpret this observation?
 
 ### Application
 
-**Exercise 13.4** *(LO: apply predictive validity).* An organization gives all job candidates a personality test (the Big Five). Explain why they should then correlate test scores against job performance six months later, and describe what they would need to measure in "job performance" to make the correlation meaningful.
+**Exercise 13.4** *(Tests: assessment tool selection.)* A mid-size hospital is hiring nurses for a high-stakes intensive care unit. They currently use an unstructured interview. An I-O consultant recommends switching to structured interviews and adding a work simulation.
+- (a) What predictive validity gain should the hospital expect from the switch to structured interviews?
+- (b) Why is the work simulation especially appropriate for this role?
+- (c) What trade-off argument might a hospital administrator make against the work simulation, and how would you respond?
 
-**Exercise 13.5** *(LO: analyze the trade-off).* A structured interview has stronger predictive validity than an unstructured conversation, but it feels more formal and less personal. Explain the trade-off and describe what kind of job or organizational context would justify choosing each approach.
+**Exercise 13.5** *(Tests: Herzberg's two-factor theory.)* A tech company surveys employees and finds that satisfaction scores are average despite offering above-market salaries, a free gym, and catered lunches. Turnover is still high among their best performers, who cite "lack of growth opportunities" and "micromanagement" as reasons for leaving.
+- (a) Classify each benefit (salary, gym, catered lunches, growth opportunities, autonomy) as a hygiene factor or a motivational factor.
+- (b) Explain why improving hygiene factors further is unlikely to reduce turnover in this case.
+- (c) What specific organizational changes would Herzberg's theory predict would help?
 
-**Exercise 13.6** *(LO: apply to real scenario).* You are an industrial-organizational psychologist hired to improve a remote-work program that showed increased wait times and backlogs. Using the concepts from this chapter, propose three different hypotheses for *why* performance dropped, and for each hypothesis, propose one data point you would collect to test it.
+**Exercise 13.6** *(Tests: psychological safety.)* A hospital's ICU has had three near-miss medication errors in the past six months. When the department head investigates, she finds that nurses noticed the risks but did not speak up because of a previous incident in which a nurse who raised a concern was publicly criticized by the attending physician.
+- (a) Name the concept from this chapter that explains why the errors were not caught.
+- (b) What does the research say this concept predicts about team performance?
+- (c) What specific behaviors should the department head model or change to begin rebuilding this?
 
 ### Synthesis
 
-**Exercise 13.7** *(LO: integrate multiple concepts).* A leader announces that the organization is moving to a remote-work model. Using Herzberg's two-factor theory, Lewin's leadership styles, and the concept of psychological safety, explain what this leader should communicate and how they should communicate it to maximize engagement and maintain trust.
+**Exercise 13.7** *(Tests: integrating selection, motivation, and leadership.)* A company launches a remote-work pilot program. After six months, productivity data is mixed — some teams improved, others declined. Using job analysis, Herzberg's two-factor theory, and the concept of psychological safety, propose three hypotheses for why the outcomes differed across teams. For each hypothesis, describe what data you would collect to test it.
 
-**Exercise 13.8** *(LO: critique design).* Many organizations use MBTI types to assign people to teams, assuming that diverse types will improve collaboration. Explain why this practice is problematic and propose an alternative approach using concepts from this chapter.
+**Exercise 13.8** *(Tests: evaluating claims about organizational practice.)* A consulting firm publishes a report claiming that organizations with high employee satisfaction scores have 21% higher profitability. A journalist covers this as evidence that "happy workers are productive workers."
+- (a) What causal interpretation problem does the chapter identify for job satisfaction research?
+- (b) What alternative explanations could produce a correlation between satisfaction and profitability without satisfaction *causing* profitability?
+- (c) What study design would you need to establish causation, and is it feasible in organizational research?
 
-**Exercise 13.9** *(LO: open-ended, points forward).* The Hawthorne effect describes how observation changes behavior. Identify one way this effect appears in your own life (school, work, social media, sport). Explain what the effect reveals about human behavior and what is harder to measure as a result.
+### Challenge
 
----
+**Exercise 13.9** *(Tests: cross-concept synthesis.)* The chapter argues that most I-O psychology research comes from wealthy Western organizations. Design a study to test whether Herzberg's two-factor theory (hygiene vs. motivational factors) generalizes to workers in a non-WEIRD context — for example, workers in a manufacturing cooperative in a low-income country where job security is the dominant concern. What would you measure? What result would support generalizability? What result would challenge it?
 
-## Chapter summary
+**Exercise 13.10** *(Open-ended, points forward to Chapter 14.)* The chapter notes that job insecurity, role ambiguity, and lack of control are identified as organizational stressors by I-O psychology. Before reading Chapter 14, predict: what do you think the *biological* consequences of working in an environment with these stressors would be? What systems in the body would be activated, and for how long? After reading Chapter 14, return to this prediction and evaluate how accurate it was.
 
-You can now do five things you could not do at the start of this chapter.
-
-You understand that hiring is not intuition. It begins with job analysis — a detailed specification of what the job requires — and assessment methods — tools that predict success in that job. Predictive validity is the measure: does the tool actually distinguish who will succeed from who will struggle?
-
-You understand that motivation is more complex than incentive. Herzberg's two-factor theory separates what keeps people from leaving (sufficient pay and respect) from what makes them want to stay and grow (autonomy, variety, meaningful work). Expectancy theory shows that well-intentioned incentives often fail because people do not believe they can succeed, or do not believe the outcome matters to them, or do not control the metric being measured.
-
-You understand that job satisfaction is real but its link to performance is weaker than assumed. People adapt to pay increases. They can be satisfied but disengaged. The machinery of satisfaction and performance operates through multiple channels, not one.
-
-You understand that leadership shapes behavior both when leaders are present and when they are absent. Democratic leadership creates groups that function well in both contexts. Transformational leadership inspires but carries risk. Transactional leadership is stable and clear. Psychological safety — the belief that it is safe to speak up and take risks — predicts team performance and is built by leaders who admit uncertainty and respond non-defensively.
-
-You understand that organizational culture is the shared set of beliefs and norms that shape what feels normal and acceptable. Culture is learned through stories, symbols, and the behavior of leaders. Culture shapes performance, innovation, and retention, but the causal arrows point in multiple directions.
-
-The thing to watch for, going forward, is **the gap between what we measure and what actually matters**. Wait times and backlogs are easy to measure. Motivation, commitment, psychological safety, and long-term trust are harder. Organizations often optimize for what is easy to measure and miss what is hard. The machinery of I-O psychology makes visible what is harder to see, so that decisions can account for what they are actually changing.
-
----
-
-## Connections forward
-
-Chapter 14 covers stress, lifestyle, and health — the physical and psychological toll of work and how people cope. You will see that some of the stressors in organizations (job insecurity, role ambiguity, lack of control) are the same factors that industrial-organizational psychology identifies as problems. That chapter asks: what is the cost to health and well-being of working in an organization with poor selection, low autonomy, weak communication, and weak leadership?
-
-Chapter 16 covers therapy and treatment. Some of the disorders people develop have organizational origins — burnout, moral injury, trauma. The therapy needed is not only individual, but sometimes organizational: a change in work structure, leadership, and culture. That chapter will show that the machinery of the workplace, once built, shapes the psychological health of people in it.
-
----
-
-## Tags
-
-industrial-organizational psychology, job analysis, predictive validity, personality testing, expectancy theory, job satisfaction, organizational culture, leadership styles, Hawthorne effect, psychological safety
-
----
-
-## What would change my mind
-
-Evidence that the predictive validity of structured interviews is weaker than meta-analyses currently show, or that organizational culture does not actually correlate with performance, would require substantial revision of the chapter's claims about what methods work.
-
-## Still puzzling
-
-I do not yet fully understand the bidirectional causality between job satisfaction and job performance — which direction of influence is stronger, and under what conditions does one lead to the other versus both emerging from a third factor (e.g., person-job fit).
 ---
 
 ## LLM Exercise — Chapter 13: Industrial-Organizational Psychology
@@ -367,17 +304,18 @@ the discipline this probe trains.
 
 **Preview of next chapter:** Chapter 14 covers stress, lifestyle, and health. You'll probe Claude under contradictory instructions, time-pressure framings, and adversarial inputs — testing whether anything analogous to Selye's general adaptation syndrome (alarm → resistance → exhaustion) can be observed in an LLM's behavior under load.
 
-
 ---
 
 ## AI Wayback Machine
 
-**Lillian Gilbreth** was industrial psychologist who pioneered time-and-motion studies and ergonomics — and raised twelve children while running her consulting firm.
+**Lillian Gilbreth** was an industrial psychologist who pioneered time-and-motion studies and ergonomics — and raised twelve children while running her consulting firm.
 
 **Run this:**
 
 ```
-Who is Lillian Gilbreth, and how does their work connect to I/O psychology we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about their career or ideas.
+Who is Lillian Gilbreth, and how does their work connect to I/O
+psychology we covered in this chapter? Keep it to three paragraphs.
+End with the single most surprising thing about their career or ideas.
 ```
 
 → Search **"Lillian Gilbreth"** on Wikipedia.
